@@ -1,0 +1,21 @@
+{
+    "id": "453671",
+    "canon": "Legend of Zelda",
+    "author_id": 123001,
+    "title": "The Hero's Choice",
+    "lang": "English",
+    "published": 1005638400,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Games"
+    ],
+    "updated": 1005724800,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 1547,
+    "num_reviews": 6,
+    "status": "Incomplete"
+}

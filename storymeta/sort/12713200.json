@@ -1,0 +1,21 @@
+{
+    "id": "12713200",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "Happy Memories",
+    "lang": "English",
+    "published": 1509773204,
+    "genres": [
+        "Angst",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 100,
+    "num_reviews": 1,
+    "num_favs": 2,
+    "num_follows": 2,
+    "status": "Complete"
+}

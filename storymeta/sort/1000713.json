@@ -1,0 +1,23 @@
+{
+    "id": "1000713",
+    "canon": "Harry Potter",
+    "author_id": 248955,
+    "title": "A Very, Very Tangled Web",
+    "lang": "English",
+    "published": 1033883218,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1041847464,
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 14170,
+    "num_reviews": 45,
+    "num_favs": 27,
+    "num_follows": 31,
+    "status": "Incomplete"
+}

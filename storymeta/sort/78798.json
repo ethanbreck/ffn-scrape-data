@@ -1,0 +1,19 @@
+{
+    "id": "78798",
+    "canon": "Harry Potter",
+    "author_id": 19700,
+    "title": "The Dark Mark",
+    "lang": "English",
+    "published": 969606000,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 5347,
+    "num_reviews": 24,
+    "status": "Incomplete"
+}

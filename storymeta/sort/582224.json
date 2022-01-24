@@ -1,0 +1,22 @@
+{
+    "id": "582224",
+    "canon": "Harry Potter",
+    "author_id": 123312,
+    "title": "Un vistazo al pasado",
+    "lang": "Spanish",
+    "published": 1012689829,
+    "genres": [
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1028929676,
+    "rated": "Fiction  K",
+    "num_chapters": 6,
+    "num_words": 5820,
+    "num_reviews": 33,
+    "num_favs": 10,
+    "num_follows": 5,
+    "status": "Complete"
+}

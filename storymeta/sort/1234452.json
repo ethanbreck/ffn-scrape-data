@@ -1,0 +1,22 @@
+{
+    "id": "1234452",
+    "canon": "Lord of the Rings",
+    "author_id": 228743,
+    "title": "Many Meetings",
+    "lang": "English",
+    "published": 1045119013,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1045523731,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 12751,
+    "num_reviews": 9,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Complete"
+}

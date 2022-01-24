@@ -1,0 +1,21 @@
+{
+    "id": "544234",
+    "canon": "Harry Potter",
+    "author_id": 137232,
+    "title": "Big Wings",
+    "lang": "English",
+    "published": 1010822400,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 925,
+    "num_reviews": 9,
+    "num_favs": 5,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

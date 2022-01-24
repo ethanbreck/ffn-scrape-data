@@ -1,0 +1,20 @@
+{
+    "id": "1000051",
+    "canon": "Harry Potter",
+    "author_id": 252097,
+    "title": "Dragons and Dungeons",
+    "lang": "English",
+    "published": 1033860405,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 5068,
+    "num_reviews": 10,
+    "num_favs": 7,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "429541",
+    "canon": "Harry Potter",
+    "author_id": 110430,
+    "title": "Harry\\'s Interveiw",
+    "lang": "English",
+    "published": 1002610800,
+    "genres": [
+        "Humor",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1004601600,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 6058,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

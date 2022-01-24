@@ -1,0 +1,20 @@
+{
+    "id": "12994374",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "First Snowfall",
+    "lang": "English",
+    "published": 1531026217,
+    "genres": [
+        "Family"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 105,
+    "num_reviews": 2,
+    "num_favs": 8,
+    "num_follows": 4,
+    "status": "Complete"
+}

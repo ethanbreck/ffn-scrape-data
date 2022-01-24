@@ -1,0 +1,20 @@
+{
+    "id": "409190",
+    "canon": "Harry Potter",
+    "author_id": 111730,
+    "title": "The Return of Gilderoy Lockhart",
+    "lang": "English",
+    "published": 1000882800,
+    "genres": [
+        "Drama",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2472,
+    "num_reviews": 6,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

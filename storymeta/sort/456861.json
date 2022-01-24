@@ -1,0 +1,20 @@
+{
+    "id": "456861",
+    "canon": "Harry Potter",
+    "author_id": 127232,
+    "title": "Harry Potter and the Ancient Prophecy",
+    "lang": "English",
+    "published": 1005811200,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1006243200,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 5860,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

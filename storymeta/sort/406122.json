@@ -1,0 +1,21 @@
+{
+    "id": "406122",
+    "canon": "Harry Potter",
+    "author_id": 103164,
+    "title": "Harry Potter and The Final Solution",
+    "lang": "English",
+    "published": 1000623600,
+    "genres": [
+        "Adventure",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1019183580,
+    "rated": "Fiction  T",
+    "num_chapters": 4,
+    "num_words": 4016,
+    "num_reviews": 20,
+    "status": "Incomplete"
+}

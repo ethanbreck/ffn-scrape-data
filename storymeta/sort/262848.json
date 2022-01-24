@@ -1,0 +1,21 @@
+{
+    "id": "262848",
+    "canon": "Harry Potter",
+    "author_id": 23226,
+    "title": "The Story Of Flourish And Blotts",
+    "lang": "English",
+    "published": 987922800,
+    "genres": [
+        "Mystery",
+        "Suspense"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 995698800,
+    "rated": "Fiction  M",
+    "num_chapters": 2,
+    "num_words": 10051,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

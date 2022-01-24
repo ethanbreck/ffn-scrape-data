@@ -1,0 +1,18 @@
+{
+    "id": "55710",
+    "canon": "Harry Potter",
+    "author_id": 15678,
+    "title": "Harry Potter and the Grand Adventure.",
+    "lang": "English",
+    "published": 965804400,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1111,
+    "num_reviews": 16,
+    "status": "Incomplete"
+}

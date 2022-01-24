@@ -1,0 +1,23 @@
+{
+    "id": "567360",
+    "canon": "Lord of the Rings",
+    "author_id": 14979,
+    "title": "The Hitchhiker's Guide to Middle-Earth",
+    "lang": "English",
+    "published": 1011945600,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1012550400,
+    "rated": "Fiction  T",
+    "num_chapters": 7,
+    "num_words": 3666,
+    "num_reviews": 55,
+    "num_favs": 10,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

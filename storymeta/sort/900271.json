@@ -1,0 +1,20 @@
+{
+    "id": "900271",
+    "canon": "Star Wars",
+    "author_id": 174432,
+    "title": "Starwars Realworld",
+    "lang": "English",
+    "published": 1028825990,
+    "genres": [
+        "Adventure",
+        "Parody"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 10112,
+    "num_reviews": 11,
+    "status": "Incomplete"
+}

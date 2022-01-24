@@ -1,0 +1,21 @@
+{
+    "id": "7795",
+    "canon": "Harry Potter",
+    "author_id": 6169,
+    "title": "Harry Potter and the Last Battle",
+    "lang": "English",
+    "published": 945590400,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2140,
+    "num_reviews": 89,
+    "num_favs": 30,
+    "num_follows": 8,
+    "status": "Complete"
+}

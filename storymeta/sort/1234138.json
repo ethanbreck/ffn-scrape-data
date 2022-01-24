@@ -1,0 +1,21 @@
+{
+    "id": "1234138",
+    "canon": "Harry Potter",
+    "author_id": 253593,
+    "title": "Frente al Espejo",
+    "lang": "Spanish",
+    "published": 1045106525,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1049568986,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 1495,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

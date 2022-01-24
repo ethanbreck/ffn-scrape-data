@@ -1,0 +1,22 @@
+{
+    "id": "21522",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "Under the Rose Bush",
+    "lang": "English",
+    "published": 956559600,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 988441200,
+    "rated": "Fiction  K",
+    "num_words": 3015,
+    "num_reviews": 56,
+    "num_favs": 29,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

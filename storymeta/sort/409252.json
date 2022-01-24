@@ -1,0 +1,19 @@
+{
+    "id": "409252",
+    "canon": "Harry Potter",
+    "author_id": 96080,
+    "title": "Untitled",
+    "lang": "English",
+    "published": 1000882800,
+    "genres": [
+        "Poetry",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 127,
+    "num_reviews": 15,
+    "status": "Incomplete"
+}

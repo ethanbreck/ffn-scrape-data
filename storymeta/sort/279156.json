@@ -1,0 +1,21 @@
+{
+    "id": "279156",
+    "canon": "Harry Potter",
+    "author_id": 7422,
+    "title": "Harry!",
+    "lang": "English",
+    "published": 989391600,
+    "genres": [
+        "Humor",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 33,
+    "num_reviews": 18,
+    "num_favs": 6,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

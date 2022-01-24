@@ -1,0 +1,20 @@
+{
+    "id": "500652",
+    "canon": "Harry Potter",
+    "author_id": 111514,
+    "title": "Harry Potter and the Enchanted Music Box",
+    "lang": "English",
+    "published": 1008576000,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 10717,
+    "num_reviews": 34,
+    "num_favs": 4,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "121314",
+    "canon": "Harry Potter",
+    "author_id": 26003,
+    "title": "The Wonderful World Of I Forget The Name",
+    "lang": "English",
+    "published": 975052800,
+    "genres": [
+        "Humor",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1558,
+    "num_reviews": 66,
+    "num_favs": 9,
+    "status": "Complete"
+}

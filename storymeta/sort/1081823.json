@@ -1,0 +1,22 @@
+{
+    "id": "1081823",
+    "canon": "Harry Potter",
+    "author_id": 123146,
+    "title": "You!",
+    "lang": "English",
+    "published": 1038102319,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1039612139,
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 9188,
+    "num_reviews": 24,
+    "num_favs": 1,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

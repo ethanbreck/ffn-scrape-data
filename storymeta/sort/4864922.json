@@ -1,0 +1,23 @@
+{
+    "id": "4864922",
+    "canon": "Harry Potter",
+    "author_id": 203974,
+    "title": "The Forest of Faeries",
+    "lang": "English",
+    "published": 1234706232,
+    "genres": [
+        "Romance",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1263519948,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 17336,
+    "num_reviews": 66,
+    "num_favs": 105,
+    "num_follows": 193,
+    "status": "Incomplete"
+}

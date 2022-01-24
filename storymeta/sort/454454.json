@@ -1,0 +1,18 @@
+{
+    "id": "454454",
+    "canon": "Harry Potter",
+    "author_id": 121298,
+    "title": "My Friend",
+    "lang": "English",
+    "published": 1005724800,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 255,
+    "num_reviews": 9,
+    "status": "Incomplete"
+}

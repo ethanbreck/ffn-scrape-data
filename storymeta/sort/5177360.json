@@ -1,0 +1,21 @@
+{
+    "id": "5177360",
+    "canon": "Harry Potter",
+    "author_id": 123733,
+    "title": "Understanding",
+    "lang": "English",
+    "published": 1246320289,
+    "genres": [
+        "Romance",
+        "Friendship"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1635,
+    "num_reviews": 12,
+    "num_favs": 28,
+    "num_follows": 1,
+    "status": "Complete"
+}

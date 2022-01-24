@@ -1,0 +1,21 @@
+{
+    "id": "2143690",
+    "canon": "Harry Potter",
+    "author_id": 255430,
+    "title": "Memory",
+    "lang": "English",
+    "published": 1101235608,
+    "genres": [
+        "Tragedy",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 887,
+    "num_reviews": 10,
+    "num_favs": 64,
+    "num_follows": 20,
+    "status": "Complete"
+}

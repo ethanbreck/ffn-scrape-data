@@ -1,0 +1,23 @@
+{
+    "id": "8132356",
+    "canon": "Harry Potter",
+    "author_id": 21845,
+    "title": "Red Wine and Vodka",
+    "lang": "English",
+    "published": 1337491056,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1451373089,
+    "rated": "Fiction  M",
+    "num_chapters": 9,
+    "num_words": 26260,
+    "num_reviews": 61,
+    "num_favs": 109,
+    "num_follows": 149,
+    "status": "Incomplete"
+}

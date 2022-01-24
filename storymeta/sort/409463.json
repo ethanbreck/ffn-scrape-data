@@ -1,0 +1,23 @@
+{
+    "id": "409463",
+    "canon": "Harry Potter",
+    "author_id": 35878,
+    "title": "Small Packages",
+    "lang": "English",
+    "published": 1000969200,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1095126246,
+    "rated": "Fiction  M",
+    "num_chapters": 14,
+    "num_words": 46333,
+    "num_reviews": 118,
+    "num_favs": 10,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

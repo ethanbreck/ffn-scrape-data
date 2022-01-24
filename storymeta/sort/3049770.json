@@ -1,0 +1,23 @@
+{
+    "id": "3049770",
+    "canon": "Harry Potter",
+    "author_id": 149677,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "lang": "English",
+    "published": 1153118725,
+    "genres": [
+        "Adventure",
+        "Suspense"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1156369496,
+    "rated": "Fiction  M",
+    "num_chapters": 9,
+    "num_words": 24168,
+    "num_reviews": 42,
+    "num_favs": 42,
+    "num_follows": 75,
+    "status": "Incomplete"
+}

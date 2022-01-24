@@ -1,0 +1,23 @@
+{
+    "id": "150716",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "The Serpent of Lord Voldemort",
+    "lang": "English",
+    "published": 977644800,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1027110055,
+    "rated": "Fiction  K+",
+    "num_chapters": 12,
+    "num_words": 39959,
+    "num_reviews": 369,
+    "num_favs": 241,
+    "num_follows": 136,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "600414",
+    "canon": "Harry Potter",
+    "author_id": 132123,
+    "title": "Meeting With Harry Potter and Lord of the Rings",
+    "lang": "English",
+    "published": 1013566545,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 592,
+    "num_reviews": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

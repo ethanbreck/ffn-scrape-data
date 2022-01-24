@@ -1,0 +1,21 @@
+{
+    "id": "5854506",
+    "canon": "Star Wars",
+    "author_id": 123218,
+    "title": "Friendly Gropage",
+    "lang": "English",
+    "published": 1269937537,
+    "genres": [
+        "Romance",
+        "Friendship"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 841,
+    "num_reviews": 8,
+    "num_favs": 12,
+    "num_follows": 6,
+    "status": "Complete"
+}

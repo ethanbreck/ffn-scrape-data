@@ -1,0 +1,19 @@
+{
+    "id": "465437",
+    "canon": "Harry Potter",
+    "author_id": 123455,
+    "title": "Lily's morning",
+    "lang": "English",
+    "published": 1006416000,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 588,
+    "num_reviews": 14,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

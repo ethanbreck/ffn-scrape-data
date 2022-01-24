@@ -1,0 +1,19 @@
+{
+    "id": "12708989",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "In Vain",
+    "lang": "English",
+    "published": 1509489297,
+    "genres": [
+        "Drama",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 100,
+    "num_reviews": 1,
+    "status": "Complete"
+}

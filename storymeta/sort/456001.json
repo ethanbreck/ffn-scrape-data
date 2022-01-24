@@ -1,0 +1,20 @@
+{
+    "id": "456001",
+    "canon": "Star Wars",
+    "author_id": 123612,
+    "title": "Against A Myth",
+    "lang": "English",
+    "published": 1005811200,
+    "genres": [
+        "Adventure",
+        "Sci"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 8918,
+    "num_reviews": 4,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

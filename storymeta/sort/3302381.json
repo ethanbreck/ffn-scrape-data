@@ -1,0 +1,21 @@
+{
+    "id": "3302381",
+    "canon": "Harry Potter",
+    "author_id": 247798,
+    "title": "Harry Potter and the Deathly Hallows",
+    "lang": "English",
+    "published": 1166830030,
+    "genres": [
+        "Adventure",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2609,
+    "num_reviews": 11,
+    "num_favs": 6,
+    "num_follows": 5,
+    "status": "Complete"
+}

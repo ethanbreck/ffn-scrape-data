@@ -1,0 +1,20 @@
+{
+    "id": "260955",
+    "canon": "Harry Potter",
+    "author_id": 11218,
+    "title": "Lotus",
+    "lang": "English",
+    "published": 987750000,
+    "genres": [
+        "Mystery",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1025,
+    "num_reviews": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

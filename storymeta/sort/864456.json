@@ -1,0 +1,19 @@
+{
+    "id": "864456",
+    "canon": "Harry Potter",
+    "author_id": 237503,
+    "title": "Another Potter",
+    "lang": "English",
+    "published": 1027243526,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 1292,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

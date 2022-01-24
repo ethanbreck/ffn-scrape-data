@@ -1,0 +1,19 @@
+{
+    "id": "921234",
+    "canon": "Harry Potter",
+    "author_id": 255286,
+    "title": "My Secret",
+    "lang": "English",
+    "published": 1029728461,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 1723,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

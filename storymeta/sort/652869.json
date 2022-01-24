@@ -1,0 +1,23 @@
+{
+    "id": "652869",
+    "canon": "Harry Potter",
+    "author_id": 49468,
+    "title": "Harry Potter and the Bookwyrm",
+    "lang": "English",
+    "published": 1015918255,
+    "genres": [
+        "Adventure",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1041059861,
+    "rated": "Fiction  K+",
+    "num_chapters": 6,
+    "num_words": 17130,
+    "num_reviews": 60,
+    "num_favs": 44,
+    "num_follows": 7,
+    "status": "Complete"
+}

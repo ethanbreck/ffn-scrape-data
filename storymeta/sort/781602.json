@@ -1,0 +1,20 @@
+{
+    "id": "781602",
+    "canon": "Harry Potter",
+    "author_id": 214412,
+    "title": "Eye of the Dragon",
+    "lang": "English",
+    "published": 1021638801,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 5,
+    "num_words": 19218,
+    "num_reviews": 8,
+    "status": "Incomplete"
+}

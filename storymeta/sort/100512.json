@@ -1,0 +1,18 @@
+{
+    "id": "100512",
+    "canon": "Harry Potter",
+    "author_id": 23659,
+    "title": "Flight of the Phoenix",
+    "lang": "English",
+    "published": 972716400,
+    "genres": [
+        "Words: 140"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 140,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

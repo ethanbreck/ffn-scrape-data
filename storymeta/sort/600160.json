@@ -1,0 +1,20 @@
+{
+    "id": "600160",
+    "canon": "Lord of the Rings",
+    "author_id": 166099,
+    "title": "An Ending",
+    "lang": "English",
+    "published": 1013559667,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2111,
+    "num_reviews": 8,
+    "num_favs": 14,
+    "num_follows": 2,
+    "status": "Complete"
+}

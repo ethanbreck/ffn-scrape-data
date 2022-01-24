@@ -1,0 +1,21 @@
+{
+    "id": "1464961",
+    "canon": "Harry Potter",
+    "author_id": 177617,
+    "title": "Something",
+    "lang": "English",
+    "published": 1060228998,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1258,
+    "num_reviews": 10,
+    "num_favs": 5,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

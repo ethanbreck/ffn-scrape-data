@@ -1,0 +1,21 @@
+{
+    "id": "570940",
+    "canon": "Harry Potter",
+    "author_id": 129886,
+    "title": "The Parchment",
+    "lang": "English",
+    "published": 1012118400,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 600,
+    "num_reviews": 10,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

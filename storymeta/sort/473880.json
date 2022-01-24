@@ -1,0 +1,21 @@
+{
+    "id": "473880",
+    "canon": "IT",
+    "author_id": 123238,
+    "title": "IT - Cassandra's Story",
+    "lang": "English",
+    "published": 1006848000,
+    "genres": [
+        "Horror",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 20132,
+    "num_reviews": 21,
+    "num_favs": 2,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

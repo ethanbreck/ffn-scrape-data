@@ -1,0 +1,23 @@
+{
+    "id": "1230016",
+    "canon": "Harry Potter",
+    "author_id": 111583,
+    "title": "Mono Letter",
+    "lang": "English",
+    "published": 1044916818,
+    "genres": [
+        "Drama",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1047457672,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 3833,
+    "num_reviews": 88,
+    "num_favs": 72,
+    "num_follows": 100,
+    "status": "Incomplete"
+}

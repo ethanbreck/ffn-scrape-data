@@ -1,0 +1,23 @@
+{
+    "id": "234010",
+    "canon": "Harry Potter",
+    "author_id": 36927,
+    "title": "By the Pricking of my Thumbs",
+    "lang": "English",
+    "published": 985075200,
+    "genres": [
+        "Mystery",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 989910000,
+    "rated": "Fiction  M",
+    "num_chapters": 12,
+    "num_words": 87055,
+    "num_reviews": 224,
+    "num_favs": 13,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

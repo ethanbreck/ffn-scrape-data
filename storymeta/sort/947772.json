@@ -1,0 +1,20 @@
+{
+    "id": "947772",
+    "canon": "Harry Potter",
+    "author_id": 212102,
+    "title": "The lion sleeps tonight",
+    "lang": "English",
+    "published": 1031006195,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 640,
+    "num_reviews": 18,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

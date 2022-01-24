@@ -1,0 +1,21 @@
+{
+    "id": "330828",
+    "canon": "Harry Potter",
+    "author_id": 71914,
+    "title": "A Typical Friday",
+    "lang": "English",
+    "published": 993452400,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 5993,
+    "num_reviews": 20,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

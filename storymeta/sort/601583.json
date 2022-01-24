@@ -1,0 +1,20 @@
+{
+    "id": "601583",
+    "canon": "Lord of the Rings",
+    "author_id": 59845,
+    "title": "Redux",
+    "lang": "English",
+    "published": 1013640253,
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 5431,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

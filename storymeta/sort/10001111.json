@@ -1,0 +1,23 @@
+{
+    "id": "10001111",
+    "canon": "James Bond",
+    "author_id": 98744,
+    "title": "Back In The Game",
+    "lang": "English",
+    "published": 1389074003,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "updated": 1390376986,
+    "rated": "Fiction  M",
+    "num_chapters": 4,
+    "num_words": 6972,
+    "num_reviews": 4,
+    "num_favs": 6,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

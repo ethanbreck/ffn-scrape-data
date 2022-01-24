@@ -1,0 +1,21 @@
+{
+    "id": "705012",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "Gemini",
+    "lang": "English",
+    "published": 1018086628,
+    "genres": [
+        "Angst",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 942,
+    "num_reviews": 36,
+    "num_favs": 22,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

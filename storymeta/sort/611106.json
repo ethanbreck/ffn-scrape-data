@@ -1,0 +1,20 @@
+{
+    "id": "611106",
+    "canon": "Harry Potter",
+    "author_id": 156491,
+    "title": "Das vergessene Tagebuch",
+    "lang": "German",
+    "published": 1014052284,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 5,
+    "num_words": 3316,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

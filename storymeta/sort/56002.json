@@ -1,0 +1,18 @@
+{
+    "id": "56002",
+    "canon": "Harry Potter",
+    "author_id": 10451,
+    "title": "Wish",
+    "lang": "English",
+    "published": 965890800,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 672,
+    "num_reviews": 21,
+    "status": "Incomplete"
+}

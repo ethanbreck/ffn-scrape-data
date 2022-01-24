@@ -1,0 +1,18 @@
+{
+    "id": "99090",
+    "canon": "Harry Potter",
+    "author_id": 22631,
+    "title": "Twilight",
+    "lang": "English",
+    "published": 972543600,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1320,
+    "num_reviews": 35,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "392110",
+    "canon": "Harry Potter",
+    "author_id": 50598,
+    "title": "Writer's Block",
+    "lang": "English",
+    "published": 999414000,
+    "genres": [
+        "Poetry",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 474,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

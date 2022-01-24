@@ -1,0 +1,20 @@
+{
+    "id": "487412",
+    "canon": "Harry Potter",
+    "author_id": 136182,
+    "title": "Movie Madness",
+    "lang": "English",
+    "published": 1007712000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 354,
+    "num_reviews": 10,
+    "num_favs": 3,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

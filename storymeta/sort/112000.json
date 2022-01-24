@@ -1,0 +1,20 @@
+{
+    "id": "112000",
+    "canon": "Harry Potter",
+    "author_id": 25417,
+    "title": "The Tie That Binds",
+    "lang": "English",
+    "published": 974102400,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 7727,
+    "num_reviews": 163,
+    "num_favs": 109,
+    "num_follows": 21,
+    "status": "Incomplete"
+}

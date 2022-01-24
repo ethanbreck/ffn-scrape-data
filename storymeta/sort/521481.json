@@ -1,0 +1,22 @@
+{
+    "id": "521481",
+    "canon": "Harry Potter",
+    "author_id": 145055,
+    "title": "Diario de Harriet Potter",
+    "lang": "Spanish",
+    "published": 1009699200,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1019839482,
+    "rated": "Fiction  K",
+    "num_chapters": 12,
+    "num_words": 27999,
+    "num_reviews": 40,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

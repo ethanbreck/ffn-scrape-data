@@ -1,0 +1,23 @@
+{
+    "id": "851322",
+    "canon": "Harry Potter",
+    "author_id": 234052,
+    "title": "The Golden Elixir",
+    "lang": "English",
+    "published": 1026784354,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1027326666,
+    "rated": "Fiction  T",
+    "num_chapters": 13,
+    "num_words": 41307,
+    "num_reviews": 22,
+    "num_favs": 8,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

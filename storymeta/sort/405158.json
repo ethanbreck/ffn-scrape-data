@@ -1,0 +1,20 @@
+{
+    "id": "405158",
+    "canon": "Harry Potter",
+    "author_id": 32295,
+    "title": "The old joke",
+    "lang": "English",
+    "published": 1000623600,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1000710000,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 1523,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

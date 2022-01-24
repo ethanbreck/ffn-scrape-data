@@ -1,0 +1,23 @@
+{
+    "id": "1025412",
+    "canon": "Lord of the Rings",
+    "author_id": 253929,
+    "title": "Middle Earth",
+    "lang": "English",
+    "published": 1035241982,
+    "genres": [
+        "Drama",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1038420157,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 2463,
+    "num_reviews": 10,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

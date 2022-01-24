@@ -1,0 +1,21 @@
+{
+    "id": "631484",
+    "canon": "Harry Potter",
+    "author_id": 178129,
+    "title": "The Power of Books",
+    "lang": "English",
+    "published": 1015020286,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 5449,
+    "num_reviews": 5,
+    "num_favs": 3,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

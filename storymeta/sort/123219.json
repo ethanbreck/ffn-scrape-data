@@ -1,0 +1,19 @@
+{
+    "id": "123219",
+    "canon": "Harry Potter",
+    "author_id": 25435,
+    "title": "Issues",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 640,
+    "num_reviews": 17,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

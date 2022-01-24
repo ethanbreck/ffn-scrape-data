@@ -1,0 +1,22 @@
+{
+    "id": "1234168",
+    "canon": "Lord of the Rings",
+    "author_id": 234466,
+    "title": "Lost in Dreams",
+    "lang": "English",
+    "published": 1045107360,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1147584895,
+    "rated": "Fiction  K+",
+    "num_words": 2865,
+    "num_reviews": 86,
+    "num_favs": 25,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

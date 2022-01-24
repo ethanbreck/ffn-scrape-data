@@ -1,0 +1,21 @@
+{
+    "id": "330411",
+    "canon": "Harry Potter",
+    "author_id": 84344,
+    "title": "Harry Potter and the Mysterious Time-Turner",
+    "lang": "English",
+    "published": 993452400,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 993884400,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 3483,
+    "num_reviews": 25,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

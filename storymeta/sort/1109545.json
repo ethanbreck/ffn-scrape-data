@@ -1,0 +1,19 @@
+{
+    "id": "1109545",
+    "canon": "Harry Potter",
+    "author_id": 148672,
+    "title": "Wuthering Heights",
+    "lang": "English",
+    "published": 1039310657,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 622,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

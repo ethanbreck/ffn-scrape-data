@@ -1,0 +1,19 @@
+{
+    "id": "319563",
+    "canon": "Harry Potter",
+    "author_id": 81510,
+    "title": "Welcome Back Potter",
+    "lang": "English",
+    "published": 992674800,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 675,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

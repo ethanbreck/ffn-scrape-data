@@ -1,0 +1,23 @@
+{
+    "id": "489878",
+    "canon": "Harry Potter",
+    "author_id": 132181,
+    "title": "Harry Potter and the Heir",
+    "lang": "English",
+    "published": 1007884800,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1015644123,
+    "rated": "Fiction  T",
+    "num_chapters": 32,
+    "num_words": 38691,
+    "num_reviews": 54,
+    "num_favs": 6,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

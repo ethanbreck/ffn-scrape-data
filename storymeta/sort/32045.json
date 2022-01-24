@@ -1,0 +1,23 @@
+{
+    "id": "32045",
+    "canon": "Harry Potter",
+    "author_id": 4069,
+    "title": "Out of This World",
+    "lang": "English",
+    "published": 960361200,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 980755200,
+    "rated": "Fiction  K",
+    "num_chapters": 5,
+    "num_words": 29157,
+    "num_reviews": 130,
+    "num_favs": 7,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

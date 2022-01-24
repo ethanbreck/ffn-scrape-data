@@ -1,0 +1,20 @@
+{
+    "id": "254019",
+    "canon": "Harry Potter",
+    "author_id": 58668,
+    "title": "Lilly Potter",
+    "lang": "English",
+    "published": 987231600,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 569,
+    "num_reviews": 20,
+    "num_favs": 4,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

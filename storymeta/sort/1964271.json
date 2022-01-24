@@ -1,0 +1,21 @@
+{
+    "id": "1964271",
+    "canon": "Harry Potter",
+    "author_id": 123832,
+    "title": "Percy's Personal Journal",
+    "lang": "English",
+    "published": 1089877014,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1041,
+    "num_reviews": 22,
+    "num_favs": 27,
+    "num_follows": 3,
+    "status": "Complete"
+}

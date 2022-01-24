@@ -1,0 +1,20 @@
+{
+    "id": "1234775",
+    "canon": "Harry Potter",
+    "author_id": 93670,
+    "title": "Rites of Spring",
+    "lang": "English",
+    "published": 1045156699,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 5027,
+    "num_reviews": 190,
+    "num_favs": 192,
+    "num_follows": 20,
+    "status": "Complete"
+}

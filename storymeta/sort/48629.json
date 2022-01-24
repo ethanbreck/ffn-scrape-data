@@ -1,0 +1,21 @@
+{
+    "id": "48629",
+    "canon": "Harry Potter",
+    "author_id": 13368,
+    "title": "Wheel of Fortune",
+    "lang": "English",
+    "published": 964508400,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 577,
+    "num_reviews": 20,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "1001472",
+    "canon": "Harry Potter",
+    "author_id": 223753,
+    "title": "First Impressions",
+    "lang": "English",
+    "published": 1033927888,
+    "genres": [
+        "Poetry",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 77,
+    "num_reviews": 9,
+    "num_favs": 4,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "1622555",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "A New Man",
+    "lang": "English",
+    "published": 1070223333,
+    "genres": [
+        "Angst",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 2765,
+    "num_reviews": 9,
+    "num_favs": 4,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

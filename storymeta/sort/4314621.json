@@ -1,0 +1,23 @@
+{
+    "id": "4314621",
+    "canon": "Harry Potter",
+    "author_id": 222829,
+    "title": "Goblet of Fire",
+    "lang": "English",
+    "published": 1213141020,
+    "genres": [
+        "Drama",
+        "Friendship"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1213436755,
+    "rated": "Fiction  K+",
+    "num_chapters": 7,
+    "num_words": 38633,
+    "num_reviews": 3,
+    "num_favs": 25,
+    "num_follows": 11,
+    "status": "Complete"
+}

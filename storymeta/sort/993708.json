@@ -1,0 +1,23 @@
+{
+    "id": "993708",
+    "canon": "Harry Potter",
+    "author_id": 202015,
+    "title": "Harry Potter Book 5",
+    "lang": "English",
+    "published": 1033451178,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1034652460,
+    "rated": "Fiction  K",
+    "num_chapters": 8,
+    "num_words": 13171,
+    "num_reviews": 10,
+    "num_favs": 7,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

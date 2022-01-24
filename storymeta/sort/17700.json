@@ -1,0 +1,21 @@
+{
+    "id": "17700",
+    "canon": "Harry Potter",
+    "author_id": 8000,
+    "title": "How the Gang Caught Voldemort!",
+    "lang": "English",
+    "published": 954745200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 789,
+    "num_reviews": 53,
+    "num_favs": 3,
+    "num_follows": 2,
+    "status": "Complete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "412711",
+    "canon": "Harry Potter",
+    "author_id": 113510,
+    "title": "Harry Potter and the Order of the Pheonix",
+    "lang": "English",
+    "published": 1001228400,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 484,
+    "num_reviews": 9,
+    "status": "Incomplete"
+}

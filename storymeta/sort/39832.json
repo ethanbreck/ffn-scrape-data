@@ -1,0 +1,21 @@
+{
+    "id": "39832",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "An Unusual Specimen",
+    "lang": "English",
+    "published": 962521200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 985420800,
+    "rated": "Fiction  K+",
+    "num_words": 454,
+    "num_reviews": 47,
+    "num_favs": 11,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

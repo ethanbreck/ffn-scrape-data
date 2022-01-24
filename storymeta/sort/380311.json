@@ -1,0 +1,21 @@
+{
+    "id": "380311",
+    "canon": "Harry Potter",
+    "author_id": 101490,
+    "title": "A Muggles Tale",
+    "lang": "English",
+    "published": 998636400,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 998982000,
+    "rated": "Fiction  K",
+    "num_chapters": 5,
+    "num_words": 9333,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

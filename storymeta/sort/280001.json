@@ -1,0 +1,19 @@
+{
+    "id": "280001",
+    "canon": "Harry Potter",
+    "author_id": 55790,
+    "title": "The Flames",
+    "lang": "English",
+    "published": 989478000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 319,
+    "num_reviews": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

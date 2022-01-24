@@ -1,0 +1,21 @@
+{
+    "id": "1234932",
+    "canon": "Harry Potter",
+    "author_id": 222001,
+    "title": "The Good, The Bad And The Incredibly Cliched",
+    "lang": "English",
+    "published": 1045165779,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 325,
+    "num_reviews": 5,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

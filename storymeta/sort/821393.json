@@ -1,0 +1,23 @@
+{
+    "id": "821393",
+    "canon": "Harry Potter",
+    "author_id": 170449,
+    "title": "Red Adder",
+    "lang": "English",
+    "published": 1023423877,
+    "genres": [
+        "Romance",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1225605569,
+    "rated": "Fiction  T",
+    "num_chapters": 7,
+    "num_words": 5152,
+    "num_reviews": 21,
+    "num_favs": 12,
+    "num_follows": 8,
+    "status": "Incomplete"
+}

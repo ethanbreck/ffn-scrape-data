@@ -1,0 +1,20 @@
+{
+    "id": "380628",
+    "canon": "Harry Potter",
+    "author_id": 100299,
+    "title": "The Sorting Hat Song",
+    "lang": "English",
+    "published": 998636400,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1000450800,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 831,
+    "num_reviews": 11,
+    "status": "Incomplete"
+}

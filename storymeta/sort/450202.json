@@ -1,0 +1,19 @@
+{
+    "id": "450202",
+    "canon": "Harry Potter",
+    "author_id": 42487,
+    "title": "The Oyster Song",
+    "lang": "English",
+    "published": 1005465600,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 235,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

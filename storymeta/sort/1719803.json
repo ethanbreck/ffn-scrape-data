@@ -1,0 +1,20 @@
+{
+    "id": "1719803",
+    "canon": "Harry Potter",
+    "author_id": 123489,
+    "title": "Il court",
+    "lang": "French",
+    "published": 1076040762,
+    "genres": [
+        "Angst",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2868,
+    "num_reviews": 13,
+    "num_favs": 5,
+    "status": "Incomplete"
+}

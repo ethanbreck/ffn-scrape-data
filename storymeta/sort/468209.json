@@ -1,0 +1,22 @@
+{
+    "id": "468209",
+    "canon": "Harry Potter",
+    "author_id": 111489,
+    "title": "Who are you?",
+    "lang": "English",
+    "published": 1006502400,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1007193600,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 3693,
+    "num_reviews": 10,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

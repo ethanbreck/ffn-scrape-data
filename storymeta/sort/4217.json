@@ -1,0 +1,21 @@
+{
+    "id": "4217",
+    "canon": "Harry Potter",
+    "author_id": 6363,
+    "title": "Mystery at Malfoy Manor",
+    "lang": "English",
+    "published": 948096000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 12984,
+    "num_reviews": 123,
+    "num_favs": 10,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

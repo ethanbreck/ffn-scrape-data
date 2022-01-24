@@ -1,0 +1,20 @@
+{
+    "id": "1395434",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "I am Lord Voldemort",
+    "lang": "English",
+    "published": 1056380898,
+    "genres": [
+        "Parody",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 318,
+    "num_reviews": 7,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

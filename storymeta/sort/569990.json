@@ -1,0 +1,20 @@
+{
+    "id": "569990",
+    "canon": "Harry Potter",
+    "author_id": 160924,
+    "title": "The Secret of the Forbidden Forest",
+    "lang": "English",
+    "published": 1012118400,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 806,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

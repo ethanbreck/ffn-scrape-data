@@ -1,0 +1,21 @@
+{
+    "id": "279456",
+    "canon": "Harry Potter",
+    "author_id": 29597,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "lang": "English",
+    "published": 989478000,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 989910000,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 919,
+    "num_reviews": 25,
+    "status": "Incomplete"
+}

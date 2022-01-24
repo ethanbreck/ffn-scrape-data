@@ -1,0 +1,23 @@
+{
+    "id": "222661",
+    "canon": "Harry Potter",
+    "author_id": 25140,
+    "title": "Back to the Future",
+    "lang": "English",
+    "published": 983865600,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 996303600,
+    "rated": "Fiction  K+",
+    "num_chapters": 12,
+    "num_words": 92478,
+    "num_reviews": 904,
+    "num_favs": 29,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "64001",
+    "canon": "Harry Potter",
+    "author_id": 8828,
+    "title": "Long Lost Truth",
+    "lang": "English",
+    "published": 967186800,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1381,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

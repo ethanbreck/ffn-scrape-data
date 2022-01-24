@@ -1,0 +1,20 @@
+{
+    "id": "1008100",
+    "canon": "Harry Potter",
+    "author_id": 239237,
+    "title": "A Letter",
+    "lang": "English",
+    "published": 1034289556,
+    "genres": [
+        "Harry P., Sirius B."
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1113,
+    "num_reviews": 9,
+    "num_favs": 2,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

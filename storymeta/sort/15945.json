@@ -1,0 +1,21 @@
+{
+    "id": "15945",
+    "canon": "Harry Potter",
+    "author_id": 5581,
+    "title": "Election",
+    "lang": "English",
+    "published": 953712000,
+    "genres": [
+        "Drama",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 980755200,
+    "rated": "Fiction  K+",
+    "num_chapters": 10,
+    "num_words": 37304,
+    "num_reviews": 100,
+    "status": "Incomplete"
+}

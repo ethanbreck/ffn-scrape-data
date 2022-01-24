@@ -1,0 +1,19 @@
+{
+    "id": "1234649",
+    "canon": "Batman",
+    "author_id": 123485,
+    "title": "Darkness",
+    "lang": "English",
+    "published": 1045144775,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Comics"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 444,
+    "num_reviews": 3,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

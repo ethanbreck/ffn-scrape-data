@@ -1,0 +1,20 @@
+{
+    "id": "4937587",
+    "canon": "Harry Potter",
+    "author_id": 180147,
+    "title": "Loads of Fun",
+    "lang": "English",
+    "published": 1237634234,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 5101,
+    "num_reviews": 1,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "595405",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "The Seasons",
+    "lang": "English",
+    "published": 1013337067,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 744,
+    "num_reviews": 36,
+    "num_favs": 15,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

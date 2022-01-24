@@ -1,0 +1,19 @@
+{
+    "id": "256221",
+    "canon": "Harry Potter",
+    "author_id": 24534,
+    "title": "The Magical Menagerie",
+    "lang": "English",
+    "published": 987404400,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 751,
+    "num_reviews": 11,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

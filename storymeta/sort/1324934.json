@@ -1,0 +1,21 @@
+{
+    "id": "1324934",
+    "canon": "Harry Potter",
+    "author_id": 123523,
+    "title": "InterHouse Relations",
+    "lang": "English",
+    "published": 1051561993,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2570,
+    "num_reviews": 48,
+    "num_favs": 64,
+    "num_follows": 10,
+    "status": "Complete"
+}

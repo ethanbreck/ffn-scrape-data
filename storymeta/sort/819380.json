@@ -1,0 +1,19 @@
+{
+    "id": "819380",
+    "canon": "Harry Potter",
+    "author_id": 211949,
+    "title": "My Name",
+    "lang": "English",
+    "published": 1023336240,
+    "genres": [
+        "Mystery",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 195,
+    "num_reviews": 21,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "404413",
+    "canon": "Harry Potter",
+    "author_id": 111393,
+    "title": "the dark lord returns",
+    "lang": "English",
+    "published": 1000537200,
+    "genres": [
+        "Supernatural",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 219,
+    "num_reviews": 8,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "582426",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "Hogwarts Hogwarts",
+    "lang": "English",
+    "published": 1012695293,
+    "genres": [
+        "Parody",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 104,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

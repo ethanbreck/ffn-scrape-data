@@ -1,0 +1,23 @@
+{
+    "id": "512258",
+    "canon": "Lord of the Rings",
+    "author_id": 101009,
+    "title": "A Ring of Surprise",
+    "lang": "English",
+    "published": 1009180800,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1020729810,
+    "rated": "Fiction  T",
+    "num_chapters": 24,
+    "num_words": 15897,
+    "num_reviews": 70,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "4856678",
+    "canon": "Harry Potter",
+    "author_id": 7169,
+    "title": "As Luck Would Have It",
+    "lang": "English",
+    "published": 1234412484,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 29141,
+    "num_reviews": 18,
+    "num_favs": 62,
+    "num_follows": 5,
+    "status": "Complete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "123131",
+    "canon": "Legend of Zelda",
+    "author_id": 3813,
+    "title": "The Legend",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Games"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 175,
+    "num_reviews": 10,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

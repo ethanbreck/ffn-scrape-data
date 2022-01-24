@@ -1,0 +1,21 @@
+{
+    "id": "11110",
+    "canon": "Harry Potter",
+    "author_id": 6825,
+    "title": "Lily's First Year",
+    "lang": "English",
+    "published": 950083200,
+    "genres": [
+        "James P., Lily Evans P."
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 981100800,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 5486,
+    "num_reviews": 26,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

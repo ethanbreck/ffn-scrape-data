@@ -1,0 +1,20 @@
+{
+    "id": "304390",
+    "canon": "Harry Potter",
+    "author_id": 42792,
+    "title": "The New Begining",
+    "lang": "English",
+    "published": 991551600,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1001833200,
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 3171,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

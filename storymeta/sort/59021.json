@@ -1,0 +1,20 @@
+{
+    "id": "59021",
+    "canon": "Harry Potter",
+    "author_id": 7658,
+    "title": "Hermione",
+    "lang": "English",
+    "published": 966322800,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 431,
+    "num_reviews": 64,
+    "num_favs": 4,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

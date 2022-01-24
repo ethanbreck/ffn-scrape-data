@@ -1,0 +1,18 @@
+{
+    "id": "371782",
+    "canon": "Harry Potter",
+    "author_id": 61080,
+    "title": "Harry Poem",
+    "lang": "English",
+    "published": 996130800,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 7,
+    "num_reviews": 11,
+    "status": "Incomplete"
+}

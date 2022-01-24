@@ -1,0 +1,21 @@
+{
+    "id": "239155",
+    "canon": "Harry Potter",
+    "author_id": 48572,
+    "title": "Prongs",
+    "lang": "English",
+    "published": 985680000,
+    "genres": [
+        "Poetry",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 236,
+    "num_reviews": 17,
+    "num_favs": 9,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

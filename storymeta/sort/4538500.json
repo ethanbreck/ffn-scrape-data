@@ -1,0 +1,23 @@
+{
+    "id": "4538500",
+    "canon": "Harry Potter",
+    "author_id": 144292,
+    "title": "Hogwarts, a History",
+    "lang": "English",
+    "published": 1221436045,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1227310277,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 60327,
+    "num_reviews": 14,
+    "num_favs": 10,
+    "num_follows": 21,
+    "status": "Incomplete"
+}

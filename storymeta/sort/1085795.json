@@ -1,0 +1,22 @@
+{
+    "id": "1085795",
+    "canon": "Harry Potter",
+    "author_id": 102595,
+    "title": "Sadie",
+    "lang": "English",
+    "published": 1038275475,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 10,
+    "num_words": 33815,
+    "num_reviews": 10,
+    "num_favs": 5,
+    "num_follows": 2,
+    "status": "Complete"
+}

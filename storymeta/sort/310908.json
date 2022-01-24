@@ -1,0 +1,20 @@
+{
+    "id": "310908",
+    "canon": "Harry Potter",
+    "author_id": 54775,
+    "title": "The Celtic sword",
+    "lang": "English",
+    "published": 991983600,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 3800,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

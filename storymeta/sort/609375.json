@@ -1,0 +1,23 @@
+{
+    "id": "609375",
+    "canon": "Harry Potter",
+    "author_id": 146401,
+    "title": "Harry Potter and the Lady of the Lake",
+    "lang": "English",
+    "published": 1013983230,
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1019620745,
+    "rated": "Fiction  K+",
+    "num_chapters": 5,
+    "num_words": 6973,
+    "num_reviews": 28,
+    "num_favs": 7,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "445542",
+    "canon": "Harry Potter",
+    "author_id": 95001,
+    "title": "The Sorting Hat",
+    "lang": "English",
+    "published": 1005033600,
+    "genres": [
+        "Chapters: 3"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1005120000,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 462,
+    "num_reviews": 16,
+    "status": "Incomplete"
+}

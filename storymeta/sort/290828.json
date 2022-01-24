@@ -1,0 +1,20 @@
+{
+    "id": "290828",
+    "canon": "Harry Potter",
+    "author_id": 42044,
+    "title": "Azkaban",
+    "lang": "English",
+    "published": 990428400,
+    "genres": [
+        "Poetry",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 181,
+    "num_reviews": 7,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

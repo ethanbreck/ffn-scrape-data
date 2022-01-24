@@ -1,0 +1,19 @@
+{
+    "id": "2228717",
+    "canon": "Harry Potter",
+    "author_id": 200322,
+    "title": "A Hero",
+    "lang": "English",
+    "published": 1106333129,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 5447,
+    "status": "Incomplete"
+}

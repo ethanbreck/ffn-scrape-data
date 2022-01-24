@@ -1,0 +1,22 @@
+{
+    "id": "58121",
+    "canon": "Harry Potter",
+    "author_id": 15694,
+    "title": "Harry Potter and the Return of Voldemort",
+    "lang": "English",
+    "published": 966236400,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 990860400,
+    "rated": "Fiction  K+",
+    "num_chapters": 6,
+    "num_words": 10848,
+    "num_reviews": 46,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

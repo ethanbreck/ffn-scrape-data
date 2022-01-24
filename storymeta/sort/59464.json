@@ -1,0 +1,23 @@
+{
+    "id": "59464",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "The Serpent",
+    "lang": "English",
+    "published": 966409200,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 989650800,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 9641,
+    "num_reviews": 65,
+    "num_favs": 32,
+    "num_follows": 15,
+    "status": "Incomplete"
+}

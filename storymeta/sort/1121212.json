@@ -1,0 +1,22 @@
+{
+    "id": "1121212",
+    "canon": "Harry Potter",
+    "author_id": 253575,
+    "title": "The Twelve Days Of Christmas",
+    "lang": "English",
+    "published": 1039830619,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1041650050,
+    "rated": "Fiction  T",
+    "num_chapters": 12,
+    "num_words": 50608,
+    "num_reviews": 206,
+    "num_favs": 167,
+    "num_follows": 19,
+    "status": "Complete"
+}

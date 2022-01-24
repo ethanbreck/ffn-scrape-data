@@ -1,0 +1,23 @@
+{
+    "id": "559539",
+    "canon": "Harry Potter",
+    "author_id": 135914,
+    "title": "Harry Potter und die goldene Phoenixfeder",
+    "lang": "German",
+    "published": 1011600000,
+    "genres": [
+        "Romance",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1040305161,
+    "rated": "Fiction  K+",
+    "num_chapters": 22,
+    "num_words": 110931,
+    "num_reviews": 47,
+    "num_favs": 27,
+    "num_follows": 9,
+    "status": "Incomplete"
+}

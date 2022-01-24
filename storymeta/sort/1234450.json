@@ -1,0 +1,20 @@
+{
+    "id": "1234450",
+    "canon": "Star Wars",
+    "author_id": 4465,
+    "title": "Stairway to Heaven",
+    "lang": "English",
+    "published": 1045118806,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 4119,
+    "num_reviews": 10,
+    "num_favs": 11,
+    "status": "Complete"
+}

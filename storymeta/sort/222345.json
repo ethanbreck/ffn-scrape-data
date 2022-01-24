@@ -1,0 +1,19 @@
+{
+    "id": "222345",
+    "canon": "Harry Potter",
+    "author_id": 11041,
+    "title": "Tom Swifties",
+    "lang": "English",
+    "published": 983779200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 217,
+    "num_reviews": 28,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "98503",
+    "canon": "Harry Potter",
+    "author_id": 23102,
+    "title": "That one question...",
+    "lang": "English",
+    "published": 972457200,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 805,
+    "num_reviews": 19,
+    "status": "Incomplete"
+}

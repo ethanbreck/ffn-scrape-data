@@ -1,0 +1,22 @@
+{
+    "id": "1001102",
+    "canon": "Lord of the Rings",
+    "author_id": 110865,
+    "title": "Correspondence",
+    "lang": "English",
+    "published": 1033913111,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1034177542,
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 7014,
+    "num_reviews": 29,
+    "num_favs": 6,
+    "status": "Incomplete"
+}

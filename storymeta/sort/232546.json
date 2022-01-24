@@ -1,0 +1,23 @@
+{
+    "id": "232546",
+    "canon": "Harry Potter",
+    "author_id": 39874,
+    "title": "Romeo And Juliet",
+    "lang": "English",
+    "published": 984902400,
+    "genres": [
+        "Romance",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 998722800,
+    "rated": "Fiction  T",
+    "num_chapters": 7,
+    "num_words": 10850,
+    "num_reviews": 288,
+    "num_favs": 65,
+    "num_follows": 8,
+    "status": "Complete"
+}

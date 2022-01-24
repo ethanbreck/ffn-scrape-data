@@ -1,0 +1,18 @@
+{
+    "id": "123450",
+    "canon": "Harry Potter",
+    "author_id": 17382,
+    "title": "Webs",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 796,
+    "num_reviews": 6,
+    "status": "Incomplete"
+}

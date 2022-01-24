@@ -1,0 +1,19 @@
+{
+    "id": "532032",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "Annabella",
+    "lang": "English",
+    "published": 1010217600,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1538,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

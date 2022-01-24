@@ -1,0 +1,21 @@
+{
+    "id": "313401",
+    "canon": "Harry Potter",
+    "author_id": 79370,
+    "title": "Harry Potter and The Chosen One",
+    "lang": "English",
+    "published": 992242800,
+    "genres": [
+        "Fantasy",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 996217200,
+    "rated": "Fiction  K",
+    "num_chapters": 6,
+    "num_words": 9457,
+    "num_reviews": 30,
+    "status": "Incomplete"
+}

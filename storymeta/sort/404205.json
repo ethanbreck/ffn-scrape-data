@@ -1,0 +1,23 @@
+{
+    "id": "404205",
+    "canon": "Harry Potter",
+    "author_id": 99616,
+    "title": "Before the Storm",
+    "lang": "English",
+    "published": 1000537200,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1023558119,
+    "rated": "Fiction  K+",
+    "num_chapters": 16,
+    "num_words": 96860,
+    "num_reviews": 166,
+    "num_favs": 67,
+    "num_follows": 20,
+    "status": "Incomplete"
+}

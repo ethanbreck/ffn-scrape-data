@@ -1,0 +1,23 @@
+{
+    "id": "1000702",
+    "canon": "Harry Potter",
+    "author_id": 248955,
+    "title": "New Adventures",
+    "lang": "English",
+    "published": 1033882865,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1080751202,
+    "rated": "Fiction  T",
+    "num_chapters": 6,
+    "num_words": 18724,
+    "num_reviews": 109,
+    "num_favs": 87,
+    "num_follows": 75,
+    "status": "Incomplete"
+}

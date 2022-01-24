@@ -1,0 +1,21 @@
+{
+    "id": "729002",
+    "canon": "Harry Potter",
+    "author_id": 123132,
+    "title": "Learning From The Master",
+    "lang": "English",
+    "published": 1019214569,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 1546,
+    "num_reviews": 19,
+    "num_favs": 36,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

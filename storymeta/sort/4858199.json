@@ -1,0 +1,23 @@
+{
+    "id": "4858199",
+    "canon": "Harry Potter",
+    "author_id": 244027,
+    "title": "Persuasion",
+    "lang": "English",
+    "published": 1234486616,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1237241475,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 3550,
+    "num_reviews": 10,
+    "num_favs": 5,
+    "num_follows": 15,
+    "status": "Incomplete"
+}

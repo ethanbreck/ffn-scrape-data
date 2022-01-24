@@ -1,0 +1,20 @@
+{
+    "id": "13005278",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "Unappealing",
+    "lang": "English",
+    "published": 1531889228,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 101,
+    "num_reviews": 1,
+    "num_favs": 8,
+    "num_follows": 3,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "560777",
+    "canon": "Harry Potter",
+    "author_id": 154535,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "lang": "English",
+    "published": 1011600000,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 14,
+    "num_words": 19820,
+    "num_reviews": 6,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

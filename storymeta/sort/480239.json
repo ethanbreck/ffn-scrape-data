@@ -1,0 +1,20 @@
+{
+    "id": "480239",
+    "canon": "Harry Potter",
+    "author_id": 128268,
+    "title": "Something Good",
+    "lang": "English",
+    "published": 1007280000,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2213,
+    "num_reviews": 33,
+    "num_favs": 11,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

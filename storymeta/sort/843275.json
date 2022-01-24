@@ -1,0 +1,21 @@
+{
+    "id": "843275",
+    "canon": "Harry Potter",
+    "author_id": 123132,
+    "title": "Some Comfort Here",
+    "lang": "English",
+    "published": 1026533373,
+    "genres": [
+        "Angst",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2484,
+    "num_reviews": 6,
+    "num_favs": 3,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

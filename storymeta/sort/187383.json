@@ -1,0 +1,21 @@
+{
+    "id": "187383",
+    "canon": "Harry Potter",
+    "author_id": 36511,
+    "title": "The harry potter chronicals",
+    "lang": "English",
+    "published": 980236800,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 981532800,
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 1315,
+    "num_reviews": 11,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

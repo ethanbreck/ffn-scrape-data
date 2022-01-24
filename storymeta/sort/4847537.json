@@ -1,0 +1,23 @@
+{
+    "id": "4847537",
+    "canon": "Harry Potter",
+    "author_id": 10562,
+    "title": "Ephemeral Time",
+    "lang": "English",
+    "published": 1234063728,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1387706053,
+    "rated": "Fiction  M",
+    "num_chapters": 18,
+    "num_words": 66001,
+    "num_reviews": 1095,
+    "num_favs": 2334,
+    "num_follows": 2842,
+    "status": "Incomplete"
+}

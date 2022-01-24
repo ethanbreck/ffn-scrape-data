@@ -1,0 +1,22 @@
+{
+    "id": "700112",
+    "canon": "Harry Potter",
+    "author_id": 100064,
+    "title": "The Question that I Ask",
+    "lang": "English",
+    "published": 1017871108,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1018748987,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 2885,
+    "num_reviews": 12,
+    "num_favs": 2,
+    "status": "Complete"
+}

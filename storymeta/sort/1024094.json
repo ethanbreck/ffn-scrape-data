@@ -1,0 +1,20 @@
+{
+    "id": "1024094",
+    "canon": "Harry Potter",
+    "author_id": 242347,
+    "title": "Harry Potter",
+    "lang": "English",
+    "published": 1035164009,
+    "genres": [
+        "Drama",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 936,
+    "num_reviews": 3,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "12115",
+    "canon": "Harry Potter",
+    "author_id": 6132,
+    "title": "A Biography: Harry Potter",
+    "lang": "English",
+    "published": 950860800,
+    "genres": [
+        "Words: 179"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 179,
+    "num_reviews": 44,
+    "status": "Complete"
+}

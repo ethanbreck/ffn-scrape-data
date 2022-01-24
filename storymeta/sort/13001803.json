@@ -1,0 +1,20 @@
+{
+    "id": "13001803",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "No Comparissions",
+    "lang": "English",
+    "published": 1531620993,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 100,
+    "num_favs": 7,
+    "num_follows": 4,
+    "status": "Complete"
+}

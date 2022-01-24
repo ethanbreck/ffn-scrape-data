@@ -1,0 +1,23 @@
+{
+    "id": "1123861",
+    "canon": "Sherlock Holmes",
+    "author_id": 140726,
+    "title": "The Case of Missing Whisky",
+    "lang": "English",
+    "published": 1039935940,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1044864002,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 16232,
+    "num_reviews": 61,
+    "num_favs": 70,
+    "num_follows": 10,
+    "status": "Complete"
+}

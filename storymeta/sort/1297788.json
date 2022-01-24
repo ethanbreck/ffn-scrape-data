@@ -1,0 +1,20 @@
+{
+    "id": "1297788",
+    "canon": "Harry Potter",
+    "author_id": 148359,
+    "title": "Flutter",
+    "lang": "English",
+    "published": 1049820141,
+    "genres": [
+        "Angst",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1052,
+    "num_reviews": 38,
+    "num_favs": 7,
+    "status": "Incomplete"
+}

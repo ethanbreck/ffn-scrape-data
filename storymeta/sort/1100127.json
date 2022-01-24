@@ -1,0 +1,19 @@
+{
+    "id": "1100127",
+    "canon": "Harry Potter",
+    "author_id": 179610,
+    "title": "The Ring",
+    "lang": "English",
+    "published": 1038885638,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 734,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

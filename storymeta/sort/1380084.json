@@ -1,0 +1,23 @@
+{
+    "id": "1380084",
+    "canon": "Harry Potter",
+    "author_id": 123489,
+    "title": "H\u00e9ros d'hier, L\u00e9gendes de demain",
+    "lang": "French",
+    "published": 1055210588,
+    "genres": [
+        "Drama",
+        "Supernatural"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1059894979,
+    "rated": "Fiction  M",
+    "num_chapters": 4,
+    "num_words": 14191,
+    "num_reviews": 7,
+    "num_favs": 2,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

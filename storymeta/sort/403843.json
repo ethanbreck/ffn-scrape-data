@@ -1,0 +1,23 @@
+{
+    "id": "403843",
+    "canon": "Harry Potter",
+    "author_id": 14802,
+    "title": "Oderint, dum metuant",
+    "lang": "English",
+    "published": 1000537200,
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1000623600,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 3119,
+    "num_reviews": 9,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

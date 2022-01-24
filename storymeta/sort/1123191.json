@@ -1,0 +1,21 @@
+{
+    "id": "1123191",
+    "canon": "Harry Potter",
+    "author_id": 12508,
+    "title": "The Promise",
+    "lang": "English",
+    "published": 1039915562,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2944,
+    "num_reviews": 20,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

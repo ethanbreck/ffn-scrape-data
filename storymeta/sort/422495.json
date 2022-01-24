@@ -1,0 +1,21 @@
+{
+    "id": "422495",
+    "canon": "Harry Potter",
+    "author_id": 100724,
+    "title": "Understanding Harry",
+    "lang": "English",
+    "published": 1001919600,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1028145264,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 524,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

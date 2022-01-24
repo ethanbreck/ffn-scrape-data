@@ -1,0 +1,18 @@
+{
+    "id": "99022",
+    "canon": "Harry Potter",
+    "author_id": 23261,
+    "title": "Hary Potter and The Beggining of the End",
+    "lang": "English",
+    "published": 972543600,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 445,
+    "num_reviews": 16,
+    "status": "Incomplete"
+}

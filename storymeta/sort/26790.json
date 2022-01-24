@@ -1,0 +1,23 @@
+{
+    "id": "26790",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "An Unwelcome Visitor",
+    "lang": "English",
+    "published": 958546800,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 982483200,
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 8648,
+    "num_reviews": 125,
+    "num_favs": 30,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1473195",
+    "canon": "Harry Potter",
+    "author_id": 100813,
+    "title": "Hello",
+    "lang": "English",
+    "published": 1060654931,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 388,
+    "num_reviews": 6,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

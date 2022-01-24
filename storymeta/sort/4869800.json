@@ -1,0 +1,22 @@
+{
+    "id": "4869800",
+    "canon": "Harry Potter",
+    "author_id": 102727,
+    "title": "Getting to the Mustard",
+    "lang": "English",
+    "published": 1234852432,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1416205323,
+    "rated": "Fiction  K",
+    "num_chapters": 5,
+    "num_words": 7993,
+    "num_reviews": 97,
+    "num_favs": 112,
+    "num_follows": 54,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "481084",
+    "canon": "Harry Potter",
+    "author_id": 134297,
+    "title": "A New Addition",
+    "lang": "English",
+    "published": 1007280000,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 846,
+    "num_reviews": 1,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

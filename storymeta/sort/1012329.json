@@ -1,0 +1,20 @@
+{
+    "id": "1012329",
+    "canon": "Harry Potter",
+    "author_id": 192740,
+    "title": "My Hero",
+    "lang": "English",
+    "published": 1034570720,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 403,
+    "num_reviews": 3,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

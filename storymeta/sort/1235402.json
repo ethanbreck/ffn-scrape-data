@@ -1,0 +1,23 @@
+{
+    "id": "1235402",
+    "canon": "Harry Potter",
+    "author_id": 234282,
+    "title": "Harry Potter and The Order of Light",
+    "lang": "English",
+    "published": 1045182857,
+    "genres": [
+        "Romance",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1045351239,
+    "rated": "Fiction  M",
+    "num_chapters": 22,
+    "num_words": 41233,
+    "num_reviews": 64,
+    "num_favs": 40,
+    "num_follows": 20,
+    "status": "Incomplete"
+}

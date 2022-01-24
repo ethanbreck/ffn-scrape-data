@@ -1,0 +1,19 @@
+{
+    "id": "39473",
+    "canon": "Harry Potter",
+    "author_id": 12687,
+    "title": "Harry Potter Story",
+    "lang": "English",
+    "published": 962521200,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 6950,
+    "num_reviews": 11,
+    "status": "Incomplete"
+}

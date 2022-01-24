@@ -1,0 +1,21 @@
+{
+    "id": "8101101",
+    "canon": "Harry Potter",
+    "author_id": 18644,
+    "title": "Colour My World",
+    "lang": "English",
+    "published": 1336594803,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2150,
+    "num_reviews": 5,
+    "num_favs": 9,
+    "num_follows": 1,
+    "status": "Complete"
+}

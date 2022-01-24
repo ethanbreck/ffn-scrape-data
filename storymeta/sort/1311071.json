@@ -1,0 +1,23 @@
+{
+    "id": "1311071",
+    "canon": "Harry Potter",
+    "author_id": 123967,
+    "title": "Nothing Simple",
+    "lang": "English",
+    "published": 1050715679,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1072764324,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 3877,
+    "num_reviews": 87,
+    "num_favs": 45,
+    "num_follows": 38,
+    "status": "Incomplete"
+}

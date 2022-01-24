@@ -1,0 +1,18 @@
+{
+    "id": "260503",
+    "canon": "Harry Potter",
+    "author_id": 32332,
+    "title": "Terror in Teacups",
+    "lang": "English",
+    "published": 987750000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 558,
+    "num_reviews": 17,
+    "status": "Incomplete"
+}

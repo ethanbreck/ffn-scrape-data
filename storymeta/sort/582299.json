@@ -1,0 +1,20 @@
+{
+    "id": "582299",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "Mr Sevviekins",
+    "lang": "English",
+    "published": 1012692108,
+    "genres": [
+        "Parody",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 161,
+    "num_reviews": 10,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

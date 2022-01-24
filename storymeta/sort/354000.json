@@ -1,0 +1,18 @@
+{
+    "id": "354000",
+    "canon": "Harry Potter",
+    "author_id": 43253,
+    "title": "Harry Potter and the Second One",
+    "lang": "English",
+    "published": 995007600,
+    "genres": [
+        "Words: 2,535"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2535,
+    "num_reviews": 6,
+    "status": "Incomplete"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "466003",
+    "canon": "Harry Potter",
+    "author_id": 129460,
+    "title": "Harry Potter and the Song of Night",
+    "lang": "English",
+    "published": 1006416000,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1008921600,
+    "rated": "Fiction  T",
+    "num_chapters": 16,
+    "num_words": 58007,
+    "num_reviews": 101,
+    "num_favs": 23,
+    "num_follows": 4,
+    "status": "Complete"
+}

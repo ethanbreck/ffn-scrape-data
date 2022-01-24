@@ -1,0 +1,22 @@
+{
+    "id": "1463808",
+    "canon": "Harry Potter",
+    "author_id": 240213,
+    "title": "Harry Potter and the Return of the Lost",
+    "lang": "English",
+    "published": 1060189694,
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 11,
+    "num_words": 32067,
+    "num_reviews": 11,
+    "num_favs": 39,
+    "num_follows": 8,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "4938129",
+    "canon": "Star Wars",
+    "author_id": 73503,
+    "title": "Test Run",
+    "lang": "English",
+    "published": 1237658928,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 2281,
+    "num_reviews": 2,
+    "num_favs": 6,
+    "num_follows": 1,
+    "status": "Complete"
+}

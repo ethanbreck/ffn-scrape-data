@@ -1,0 +1,20 @@
+{
+    "id": "1123345",
+    "canon": "Harry Potter",
+    "author_id": 192740,
+    "title": "No me dejes",
+    "lang": "Spanish",
+    "published": 1039920024,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1075,
+    "num_reviews": 16,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

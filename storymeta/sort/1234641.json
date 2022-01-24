@@ -1,0 +1,20 @@
+{
+    "id": "1234641",
+    "canon": "Harry Potter",
+    "author_id": 45041,
+    "title": "Threads of Fate",
+    "lang": "English",
+    "published": 1045143617,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1046600096,
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 4320,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

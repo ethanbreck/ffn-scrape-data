@@ -1,0 +1,21 @@
+{
+    "id": "416691",
+    "canon": "Lord of the Rings",
+    "author_id": 111843,
+    "title": "A Simple Errand",
+    "lang": "English",
+    "published": 1001487600,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1002524400,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 3273,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

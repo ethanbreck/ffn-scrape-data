@@ -1,0 +1,18 @@
+{
+    "id": "75789",
+    "canon": "Harry Potter",
+    "author_id": 13010,
+    "title": "Adventures in Oz!",
+    "lang": "English",
+    "published": 969174000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1294,
+    "num_reviews": 8,
+    "status": "Incomplete"
+}

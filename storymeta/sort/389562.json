@@ -1,0 +1,19 @@
+{
+    "id": "389562",
+    "canon": "Harry Potter",
+    "author_id": 35256,
+    "title": "A Poem for a Friend",
+    "lang": "English",
+    "published": 999241200,
+    "genres": [
+        "Poetry",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 122,
+    "num_reviews": 13,
+    "status": "Incomplete"
+}

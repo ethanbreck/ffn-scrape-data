@@ -1,0 +1,21 @@
+{
+    "id": "1271393",
+    "canon": "Shakespeare",
+    "author_id": 35114,
+    "title": "Bed of Roses",
+    "lang": "English",
+    "published": 1047845030,
+    "genres": [
+        "Poetry",
+        "Drama"
+    ],
+    "canon_type": [
+        "Plays/Musicals"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 81,
+    "num_reviews": 10,
+    "num_favs": 3,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "211221",
+    "canon": "Harry Potter",
+    "author_id": 24454,
+    "title": "The Unsung Hero",
+    "lang": "English",
+    "published": 982396800,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 279,
+    "num_reviews": 11,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

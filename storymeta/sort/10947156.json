@@ -1,0 +1,23 @@
+{
+    "id": "10947156",
+    "canon": "Harry Potter",
+    "author_id": 4095,
+    "title": "Oblivion",
+    "lang": "English",
+    "published": 1420393218,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1450575941,
+    "rated": "Fiction  M",
+    "num_chapters": 58,
+    "num_words": 359558,
+    "num_reviews": 387,
+    "num_favs": 126,
+    "num_follows": 93,
+    "status": "Complete"
+}

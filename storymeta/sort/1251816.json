@@ -1,0 +1,19 @@
+{
+    "id": "1251816",
+    "canon": "Harry Potter",
+    "author_id": 198452,
+    "title": "Magical Poem",
+    "lang": "English",
+    "published": 1046336770,
+    "genres": [
+        "Poetry",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 358,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

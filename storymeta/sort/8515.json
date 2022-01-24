@@ -1,0 +1,20 @@
+{
+    "id": "8515",
+    "canon": "Harry Potter",
+    "author_id": 6432,
+    "title": "The Whomping Willow",
+    "lang": "English",
+    "published": 948355200,
+    "genres": [
+        "Adventure",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2658,
+    "num_reviews": 73,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

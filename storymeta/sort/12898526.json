@@ -1,0 +1,21 @@
+{
+    "id": "12898526",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "24 Jokes",
+    "lang": "English",
+    "published": 1523331851,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 99,
+    "num_reviews": 1,
+    "num_favs": 4,
+    "num_follows": 2,
+    "status": "Complete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "462200",
+    "canon": "Harry Potter",
+    "author_id": 127901,
+    "title": "stuff happens",
+    "lang": "English",
+    "published": 1006156800,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 68,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "558008",
+    "canon": "Harry Potter",
+    "author_id": 123736,
+    "title": "I am who I am",
+    "lang": "English",
+    "published": 1011513600,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 90,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

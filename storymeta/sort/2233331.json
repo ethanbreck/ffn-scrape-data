@@ -1,0 +1,20 @@
+{
+    "id": "2233331",
+    "canon": "Harry Potter",
+    "author_id": 10120,
+    "title": "Timeslide",
+    "lang": "English",
+    "published": 1106589695,
+    "genres": [
+        "Drama",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 7,
+    "num_words": 30682,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

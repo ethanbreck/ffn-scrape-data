@@ -1,0 +1,20 @@
+{
+    "id": "2282940",
+    "canon": "Harry Potter",
+    "author_id": 192740,
+    "title": "El Libro De Los Muertos",
+    "lang": "Spanish",
+    "published": 1109478581,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1726,
+    "num_reviews": 6,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

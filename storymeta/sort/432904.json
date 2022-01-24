@@ -1,0 +1,20 @@
+{
+    "id": "432904",
+    "canon": "Harry Potter",
+    "author_id": 119123,
+    "title": "Harry Potter and the Hogwarts Express",
+    "lang": "English",
+    "published": 1002870000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1013717704,
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 3879,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

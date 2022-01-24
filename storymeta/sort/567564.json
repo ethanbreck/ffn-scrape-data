@@ -1,0 +1,23 @@
+{
+    "id": "567564",
+    "canon": "Harry Potter",
+    "author_id": 159984,
+    "title": "Harry Potter and the Return of Voldemort",
+    "lang": "English",
+    "published": 1011945600,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1045526736,
+    "rated": "Fiction  T",
+    "num_chapters": 38,
+    "num_words": 51937,
+    "num_reviews": 331,
+    "num_favs": 84,
+    "num_follows": 23,
+    "status": "Incomplete"
+}

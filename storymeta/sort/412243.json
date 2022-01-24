@@ -1,0 +1,20 @@
+{
+    "id": "412243",
+    "canon": "Harry Potter",
+    "author_id": 113457,
+    "title": "The fifth year",
+    "lang": "English",
+    "published": 1001142000,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 255,
+    "num_reviews": 19,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

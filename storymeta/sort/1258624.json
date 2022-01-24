@@ -1,0 +1,20 @@
+{
+    "id": "1258624",
+    "canon": "Harry Potter",
+    "author_id": 23172,
+    "title": "Books",
+    "lang": "English",
+    "published": 1046822525,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 739,
+    "num_reviews": 11,
+    "num_favs": 6,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

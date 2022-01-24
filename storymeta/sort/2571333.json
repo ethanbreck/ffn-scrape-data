@@ -1,0 +1,21 @@
+{
+    "id": "2571333",
+    "canon": "Harry Potter",
+    "author_id": 249079,
+    "title": "Books",
+    "lang": "English",
+    "published": 1126201854,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 613,
+    "num_reviews": 41,
+    "num_favs": 29,
+    "num_follows": 7,
+    "status": "Complete"
+}

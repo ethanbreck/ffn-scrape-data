@@ -1,0 +1,19 @@
+{
+    "id": "581163",
+    "canon": "Harry Potter",
+    "author_id": 163976,
+    "title": "Peeves's Poem",
+    "lang": "English",
+    "published": 1012550400,
+    "genres": [
+        "Humor",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 30,
+    "num_reviews": 8,
+    "status": "Incomplete"
+}

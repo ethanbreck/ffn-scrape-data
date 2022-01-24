@@ -1,0 +1,19 @@
+{
+    "id": "552187",
+    "canon": "Harry Potter",
+    "author_id": 154188,
+    "title": "Der Brief",
+    "lang": "German",
+    "published": 1011254400,
+    "genres": [
+        "Romance",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 3181,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

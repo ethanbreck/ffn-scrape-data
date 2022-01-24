@@ -1,0 +1,23 @@
+{
+    "id": "576589",
+    "canon": "Harry Potter",
+    "author_id": 160231,
+    "title": "Mi nombre es Potter, Harry Potter",
+    "lang": "Spanish",
+    "published": 1012377600,
+    "genres": [
+        "Humor",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1012550400,
+    "rated": "Fiction  K+",
+    "num_chapters": 4,
+    "num_words": 4196,
+    "num_reviews": 17,
+    "num_favs": 5,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

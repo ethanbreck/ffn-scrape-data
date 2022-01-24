@@ -1,0 +1,20 @@
+{
+    "id": "503284",
+    "canon": "Harry Potter",
+    "author_id": 140077,
+    "title": "The Tale of James Potter",
+    "lang": "English",
+    "published": 1008748800,
+    "genres": [
+        "Humor",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 177,
+    "num_reviews": 10,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

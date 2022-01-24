@@ -1,0 +1,23 @@
+{
+    "id": "1209900",
+    "canon": "Harry Potter",
+    "author_id": 103588,
+    "title": "The Hogwarts Diaries",
+    "lang": "English",
+    "published": 1043955898,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1064548189,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 33141,
+    "num_reviews": 111,
+    "num_favs": 40,
+    "num_follows": 5,
+    "status": "Incomplete"
+}

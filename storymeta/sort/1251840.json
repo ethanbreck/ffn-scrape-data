@@ -1,0 +1,23 @@
+{
+    "id": "1251840",
+    "canon": "Harry Potter",
+    "author_id": 123489,
+    "title": "L'\u00e9change de l'ann\u00e9e",
+    "lang": "French",
+    "published": 1046341517,
+    "genres": [
+        "Adventure",
+        "Supernatural"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1098763567,
+    "rated": "Fiction  T",
+    "num_chapters": 17,
+    "num_words": 200076,
+    "num_reviews": 20,
+    "num_favs": 12,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

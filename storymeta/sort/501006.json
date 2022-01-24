@@ -1,0 +1,21 @@
+{
+    "id": "501006",
+    "canon": "Harry Potter",
+    "author_id": 140148,
+    "title": "Harry Potter and the Shadows of Time",
+    "lang": "English",
+    "published": 1008576000,
+    "genres": [
+        "Adventure",
+        "Suspense"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1009094400,
+    "rated": "Fiction  K+",
+    "num_chapters": 4,
+    "num_words": 1751,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

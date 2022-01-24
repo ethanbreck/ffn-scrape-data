@@ -1,0 +1,20 @@
+{
+    "id": "9123868",
+    "canon": "Harry Potter",
+    "author_id": 213401,
+    "title": "Shared Favorite",
+    "lang": "English",
+    "published": 1363958248,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 880,
+    "num_reviews": 3,
+    "num_favs": 10,
+    "num_follows": 2,
+    "status": "Complete"
+}

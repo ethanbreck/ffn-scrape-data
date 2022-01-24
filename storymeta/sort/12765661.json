@@ -1,0 +1,21 @@
+{
+    "id": "12765661",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "Still Bitter",
+    "lang": "English",
+    "published": 1513742961,
+    "genres": [
+        "Romance",
+        "Family"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 100,
+    "num_reviews": 3,
+    "num_favs": 7,
+    "num_follows": 5,
+    "status": "Complete"
+}

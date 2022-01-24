@@ -1,0 +1,23 @@
+{
+    "id": "4359591",
+    "canon": "Harry Potter",
+    "author_id": 255430,
+    "title": "Dear Journal",
+    "lang": "English",
+    "published": 1214802317,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1216452839,
+    "rated": "Fiction  K",
+    "num_chapters": 21,
+    "num_words": 2899,
+    "num_reviews": 120,
+    "num_favs": 345,
+    "num_follows": 98,
+    "status": "Complete"
+}

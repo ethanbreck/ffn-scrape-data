@@ -1,0 +1,23 @@
+{
+    "id": "9641777",
+    "canon": "Harry Potter",
+    "author_id": 123436,
+    "title": "Harry Potter and the Three Rules",
+    "lang": "English",
+    "published": 1377809711,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1446933094,
+    "rated": "Fiction  M",
+    "num_chapters": 11,
+    "num_words": 40523,
+    "num_reviews": 1203,
+    "num_favs": 4659,
+    "num_follows": 6182,
+    "status": "Incomplete"
+}

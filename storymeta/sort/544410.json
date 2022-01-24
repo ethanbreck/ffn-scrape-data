@@ -1,0 +1,22 @@
+{
+    "id": "544410",
+    "canon": "Harry Potter",
+    "author_id": 123388,
+    "title": "Four of a Kind",
+    "lang": "English",
+    "published": 1010822400,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1043116358,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 4073,
+    "num_reviews": 65,
+    "num_favs": 4,
+    "status": "Incomplete"
+}

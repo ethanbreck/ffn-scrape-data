@@ -1,0 +1,20 @@
+{
+    "id": "2345588",
+    "canon": "Harry Potter",
+    "author_id": 59683,
+    "title": "Something Strange",
+    "lang": "English",
+    "published": 1113169119,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 483,
+    "num_reviews": 4,
+    "num_favs": 3,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

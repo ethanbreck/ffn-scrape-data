@@ -1,0 +1,20 @@
+{
+    "id": "1495245",
+    "canon": "Harry Potter",
+    "author_id": 237890,
+    "title": "Dear Diary",
+    "lang": "English",
+    "published": 1061962130,
+    "genres": [
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 301,
+    "num_reviews": 6,
+    "num_favs": 2,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

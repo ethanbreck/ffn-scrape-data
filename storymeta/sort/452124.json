@@ -1,0 +1,20 @@
+{
+    "id": "452124",
+    "canon": "Harry Potter",
+    "author_id": 8512,
+    "title": "Fahrenhiet Malfoy",
+    "lang": "English",
+    "published": 1005552000,
+    "genres": [
+        "Humor",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 518,
+    "num_reviews": 6,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

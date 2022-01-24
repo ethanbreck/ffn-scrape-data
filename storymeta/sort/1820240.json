@@ -1,0 +1,21 @@
+{
+    "id": "1820240",
+    "canon": "Harry Potter",
+    "author_id": 224042,
+    "title": "Harry Potter And The Unforgetable Experience",
+    "lang": "English",
+    "published": 1082041682,
+    "genres": [
+        "Adventure",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 11,
+    "num_words": 10379,
+    "num_reviews": 4,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

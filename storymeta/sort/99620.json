@@ -1,0 +1,20 @@
+{
+    "id": "99620",
+    "canon": "Harry Potter",
+    "author_id": 13486,
+    "title": "The Chimney Sweep",
+    "lang": "English",
+    "published": 972630000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 870,
+    "num_reviews": 31,
+    "num_favs": 3,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

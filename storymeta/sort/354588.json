@@ -1,0 +1,21 @@
+{
+    "id": "354588",
+    "canon": "Harry Potter",
+    "author_id": 92086,
+    "title": "Harry Potter and Blah",
+    "lang": "English",
+    "published": 995094000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 1161,
+    "num_reviews": 7,
+    "num_favs": 3,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

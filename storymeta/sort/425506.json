@@ -1,0 +1,23 @@
+{
+    "id": "425506",
+    "canon": "Harry Potter",
+    "author_id": 113372,
+    "title": "Harry Potter",
+    "lang": "English",
+    "published": 1002265200,
+    "genres": [
+        "Romance",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1003388400,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 3640,
+    "num_reviews": 15,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

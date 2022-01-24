@@ -1,0 +1,23 @@
+{
+    "id": "1310259",
+    "canon": "Harry Potter",
+    "author_id": 232706,
+    "title": "The Poem",
+    "lang": "English",
+    "published": 1050676709,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1065112508,
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 1864,
+    "num_reviews": 21,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

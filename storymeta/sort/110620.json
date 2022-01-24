@@ -1,0 +1,20 @@
+{
+    "id": "110620",
+    "canon": "Harry Potter",
+    "author_id": 8220,
+    "title": "Of Darkness",
+    "lang": "English",
+    "published": 973929600,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 980841600,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 13986,
+    "num_reviews": 40,
+    "status": "Incomplete"
+}

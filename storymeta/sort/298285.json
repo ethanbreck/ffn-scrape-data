@@ -1,0 +1,20 @@
+{
+    "id": "298285",
+    "canon": "Harry Potter",
+    "author_id": 9000,
+    "title": "A Terrible Joke",
+    "lang": "English",
+    "published": 991119600,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 639,
+    "num_reviews": 49,
+    "num_favs": 20,
+    "num_follows": 7,
+    "status": "Incomplete"
+}

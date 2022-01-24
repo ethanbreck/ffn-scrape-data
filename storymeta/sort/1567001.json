@@ -1,0 +1,23 @@
+{
+    "id": "1567001",
+    "canon": "Harry Potter",
+    "author_id": 22909,
+    "title": "Promises Remembered",
+    "lang": "English",
+    "published": 1066666780,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1104540076,
+    "rated": "Fiction  T",
+    "num_chapters": 43,
+    "num_words": 227851,
+    "num_reviews": 2428,
+    "num_favs": 1594,
+    "num_follows": 342,
+    "status": "Complete"
+}

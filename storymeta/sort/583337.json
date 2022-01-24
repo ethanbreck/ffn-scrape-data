@@ -1,0 +1,21 @@
+{
+    "id": "583337",
+    "canon": "Harry Potter",
+    "author_id": 123478,
+    "title": "Harry is Mental!",
+    "lang": "English",
+    "published": 1012717779,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1022995517,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 2436,
+    "num_reviews": 6,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

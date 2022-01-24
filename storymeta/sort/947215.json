@@ -1,0 +1,20 @@
+{
+    "id": "947215",
+    "canon": "Lord of the Rings",
+    "author_id": 200468,
+    "title": "Lost",
+    "lang": "English",
+    "published": 1030991778,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 672,
+    "num_reviews": 6,
+    "status": "Incomplete"
+}

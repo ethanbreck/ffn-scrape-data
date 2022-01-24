@@ -1,0 +1,20 @@
+{
+    "id": "392487",
+    "canon": "Harry Potter",
+    "author_id": 57818,
+    "title": "Things Fall Apart",
+    "lang": "English",
+    "published": 999414000,
+    "genres": [
+        "Drama",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 18842,
+    "num_reviews": 15,
+    "status": "Incomplete"
+}

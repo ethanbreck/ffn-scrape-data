@@ -1,0 +1,21 @@
+{
+    "id": "1151293",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "Metamorphosis",
+    "lang": "English",
+    "published": 1041258181,
+    "genres": [
+        "Angst",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 1013,
+    "num_reviews": 31,
+    "num_favs": 23,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

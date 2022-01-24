@@ -1,0 +1,20 @@
+{
+    "id": "1000002",
+    "canon": "Lord of the Rings",
+    "author_id": 254250,
+    "title": "An Unbounding Affair",
+    "lang": "English",
+    "published": 1033859231,
+    "genres": [
+        "Fantasy",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 581,
+    "num_reviews": 3,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

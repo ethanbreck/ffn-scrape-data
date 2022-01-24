@@ -1,0 +1,19 @@
+{
+    "id": "495692",
+    "canon": "Harry Potter",
+    "author_id": 138595,
+    "title": "The Wolf",
+    "lang": "English",
+    "published": 1008230400,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 962,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "384899",
+    "canon": "Harry Potter",
+    "author_id": 103902,
+    "title": "The first",
+    "lang": "English",
+    "published": 998982000,
+    "genres": [
+        "Poetry",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 278,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

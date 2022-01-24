@@ -1,0 +1,22 @@
+{
+    "id": "3808040",
+    "canon": "Harry Potter",
+    "author_id": 29867,
+    "title": "The Test",
+    "lang": "English",
+    "published": 1191024693,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 9356,
+    "num_reviews": 22,
+    "num_favs": 97,
+    "num_follows": 20,
+    "status": "Complete"
+}

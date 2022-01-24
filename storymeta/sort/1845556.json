@@ -1,0 +1,20 @@
+{
+    "id": "1845556",
+    "canon": "Harry Potter",
+    "author_id": 123293,
+    "title": "The Watchers",
+    "lang": "English",
+    "published": 1083543718,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 1276,
+    "num_reviews": 2,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

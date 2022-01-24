@@ -1,0 +1,18 @@
+{
+    "id": "514841",
+    "canon": "Harry Potter",
+    "author_id": 5609,
+    "title": "My Name Is Harry Potter",
+    "lang": "English",
+    "published": 1009353600,
+    "genres": [
+        "Harry P."
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 567,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

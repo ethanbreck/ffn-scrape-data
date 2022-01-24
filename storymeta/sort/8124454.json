@@ -1,0 +1,19 @@
+{
+    "id": "8124454",
+    "canon": "Lord of the Rings",
+    "author_id": 123156,
+    "title": "The New Shadow",
+    "lang": "English",
+    "published": 1337268310,
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 564,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

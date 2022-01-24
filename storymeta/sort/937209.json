@@ -1,0 +1,21 @@
+{
+    "id": "937209",
+    "canon": "Harry Potter",
+    "author_id": 232603,
+    "title": "Petit Livre Noir",
+    "lang": "French",
+    "published": 1030506554,
+    "genres": [
+        "Poetry",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1142,
+    "num_reviews": 14,
+    "num_favs": 13,
+    "num_follows": 3,
+    "status": "Complete"
+}

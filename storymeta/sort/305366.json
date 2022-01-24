@@ -1,0 +1,21 @@
+{
+    "id": "305366",
+    "canon": "Harry Potter",
+    "author_id": 76605,
+    "title": "The Prisoner",
+    "lang": "English",
+    "published": 991638000,
+    "genres": [
+        "Mystery",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 266,
+    "num_reviews": 20,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Complete"
+}

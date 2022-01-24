@@ -1,0 +1,21 @@
+{
+    "id": "1234922",
+    "canon": "Harry Potter",
+    "author_id": 158761,
+    "title": "Boxes of Loves",
+    "lang": "English",
+    "published": 1045164653,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 4541,
+    "num_reviews": 12,
+    "num_favs": 33,
+    "num_follows": 7,
+    "status": "Complete"
+}

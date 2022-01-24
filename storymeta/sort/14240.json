@@ -1,0 +1,21 @@
+{
+    "id": "14240",
+    "canon": "Harry Potter",
+    "author_id": 6432,
+    "title": "Trojan Horse",
+    "lang": "English",
+    "published": 952502400,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 983865600,
+    "rated": "Fiction  K+",
+    "num_chapters": 12,
+    "num_words": 70195,
+    "num_reviews": 365,
+    "num_favs": 4,
+    "status": "Incomplete"
+}

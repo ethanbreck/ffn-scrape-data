@@ -1,0 +1,23 @@
+{
+    "id": "1113340",
+    "canon": "Harry Potter",
+    "author_id": 9369,
+    "title": "Change to Subject",
+    "lang": "English",
+    "published": 1039468615,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1044719995,
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 3279,
+    "num_reviews": 42,
+    "num_favs": 14,
+    "num_follows": 11,
+    "status": "Incomplete"
+}

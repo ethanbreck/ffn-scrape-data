@@ -1,0 +1,19 @@
+{
+    "id": "543306",
+    "canon": "Harry Potter",
+    "author_id": 123991,
+    "title": "The burrow",
+    "lang": "English",
+    "published": 1010822400,
+    "genres": [
+        "Hermione G., Ron W."
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2952,
+    "num_reviews": 8,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

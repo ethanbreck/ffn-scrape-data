@@ -1,0 +1,18 @@
+{
+    "id": "60010",
+    "canon": "Harry Potter",
+    "author_id": 13010,
+    "title": "Friendly Thoughts",
+    "lang": "English",
+    "published": 966495600,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 788,
+    "num_reviews": 21,
+    "status": "Incomplete"
+}

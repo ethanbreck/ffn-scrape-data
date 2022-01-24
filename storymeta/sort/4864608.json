@@ -1,0 +1,20 @@
+{
+    "id": "4864608",
+    "canon": "Emma",
+    "author_id": 17452,
+    "title": "Blah Blah Blah Jane Fairfax",
+    "lang": "English",
+    "published": 1234686670,
+    "genres": [
+        "Poetry",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 231,
+    "num_reviews": 2,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

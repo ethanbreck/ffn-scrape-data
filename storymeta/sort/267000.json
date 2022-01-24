@@ -1,0 +1,20 @@
+{
+    "id": "267000",
+    "canon": "Harry Potter",
+    "author_id": 55918,
+    "title": "First Day",
+    "lang": "English",
+    "published": 988268400,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 4667,
+    "num_reviews": 45,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

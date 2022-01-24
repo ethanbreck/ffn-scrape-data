@@ -1,0 +1,21 @@
+{
+    "id": "256663",
+    "canon": "Harry Potter",
+    "author_id": 42242,
+    "title": "Tears and a Black Rose",
+    "lang": "English",
+    "published": 987404400,
+    "genres": [
+        "Romance",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 987836400,
+    "rated": "Fiction  T",
+    "num_chapters": 13,
+    "num_words": 17442,
+    "num_reviews": 32,
+    "status": "Incomplete"
+}

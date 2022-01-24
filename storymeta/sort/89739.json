@@ -1,0 +1,21 @@
+{
+    "id": "89739",
+    "canon": "Harry Potter",
+    "author_id": 21728,
+    "title": "Return of the King",
+    "lang": "English",
+    "published": 971247600,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 12,
+    "num_words": 51756,
+    "num_reviews": 152,
+    "num_favs": 5,
+    "num_follows": 6,
+    "status": "Incomplete"
+}

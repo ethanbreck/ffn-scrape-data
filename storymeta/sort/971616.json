@@ -1,0 +1,21 @@
+{
+    "id": "971616",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "Bullet with butterfly wings",
+    "lang": "English",
+    "published": 1032294732,
+    "genres": [
+        "Drama",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 644,
+    "num_reviews": 34,
+    "num_favs": 19,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

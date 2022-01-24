@@ -1,0 +1,19 @@
+{
+    "id": "394800",
+    "canon": "Harry Potter",
+    "author_id": 42267,
+    "title": "The Harry and Ron Show",
+    "lang": "English",
+    "published": 999586800,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2454,
+    "num_reviews": 31,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1418271",
+    "canon": "Harry Potter",
+    "author_id": 123190,
+    "title": "Minerva's Song",
+    "lang": "English",
+    "published": 1057638820,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2033,
+    "num_reviews": 9,
+    "status": "Incomplete"
+}

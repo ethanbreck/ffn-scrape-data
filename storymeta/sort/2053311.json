@@ -1,0 +1,19 @@
+{
+    "id": "2053311",
+    "canon": "Harry Potter",
+    "author_id": 120341,
+    "title": "Text Book Solution",
+    "lang": "English",
+    "published": 1094932379,
+    "genres": [
+        "Angst",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 226,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

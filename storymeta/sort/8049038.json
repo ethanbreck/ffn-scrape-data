@@ -1,0 +1,21 @@
+{
+    "id": "8049038",
+    "canon": "Harry Potter",
+    "author_id": 49395,
+    "title": "You're my favourite book",
+    "lang": "English",
+    "published": 1335116067,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 809,
+    "num_reviews": 18,
+    "num_favs": 53,
+    "num_follows": 8,
+    "status": "Incomplete"
+}

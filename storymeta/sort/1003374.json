@@ -1,0 +1,19 @@
+{
+    "id": "1003374",
+    "canon": "Harry Potter",
+    "author_id": 244411,
+    "title": "The Famous Three",
+    "lang": "English",
+    "published": 1034026860,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 3672,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "1929619",
+    "canon": "Harry Potter",
+    "author_id": 123436,
+    "title": "Silence",
+    "lang": "English",
+    "published": 1088142623,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 144,
+    "num_reviews": 11,
+    "num_favs": 10,
+    "num_follows": 5,
+    "status": "Complete"
+}

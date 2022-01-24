@@ -1,0 +1,21 @@
+{
+    "id": "101081",
+    "canon": "Harry Potter",
+    "author_id": 23666,
+    "title": "The Sisters and the Ring",
+    "lang": "English",
+    "published": 972802800,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 993366000,
+    "rated": "Fiction  T",
+    "num_chapters": 13,
+    "num_words": 20892,
+    "num_reviews": 67,
+    "status": "Incomplete"
+}

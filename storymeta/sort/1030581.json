@@ -1,0 +1,22 @@
+{
+    "id": "1030581",
+    "canon": "Harry Potter",
+    "author_id": 222084,
+    "title": "Harry Potter Poetry",
+    "lang": "English",
+    "published": 1035520436,
+    "genres": [
+        "Adventure",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1066183036,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 312,
+    "num_reviews": 4,
+    "num_favs": 2,
+    "status": "Complete"
+}

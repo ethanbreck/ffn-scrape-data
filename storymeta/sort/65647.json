@@ -1,0 +1,21 @@
+{
+    "id": "65647",
+    "canon": "Harry Potter",
+    "author_id": 9802,
+    "title": "The Haunting",
+    "lang": "English",
+    "published": 967532400,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 983952000,
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 6531,
+    "num_reviews": 34,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

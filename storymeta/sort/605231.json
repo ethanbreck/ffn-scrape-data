@@ -1,0 +1,19 @@
+{
+    "id": "605231",
+    "canon": "Harry Potter",
+    "author_id": 132123,
+    "title": "Harry Funnies Two",
+    "lang": "English",
+    "published": 1013811483,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 314,
+    "num_reviews": 5,
+    "status": "Incomplete"
+}

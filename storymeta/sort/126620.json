@@ -1,0 +1,18 @@
+{
+    "id": "126620",
+    "canon": "Harry Potter",
+    "author_id": 5421,
+    "title": "The Room",
+    "lang": "English",
+    "published": 975571200,
+    "genres": [
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1000,
+    "num_reviews": 20,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "1275718",
+    "canon": "Harry Potter",
+    "author_id": 111583,
+    "title": "AI, Artificial Intelligence",
+    "lang": "English",
+    "published": 1048179120,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 590,
+    "num_reviews": 21,
+    "num_favs": 9,
+    "num_follows": 14,
+    "status": "Incomplete"
+}

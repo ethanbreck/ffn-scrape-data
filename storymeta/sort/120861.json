@@ -1,0 +1,21 @@
+{
+    "id": "120861",
+    "canon": "Harry Potter",
+    "author_id": 23297,
+    "title": "Needle in the Haystack",
+    "lang": "English",
+    "published": 975052800,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1031524852,
+    "rated": "Fiction  K+",
+    "num_chapters": 12,
+    "num_words": 25300,
+    "num_reviews": 12,
+    "status": "Incomplete"
+}

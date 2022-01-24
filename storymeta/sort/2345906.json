@@ -1,0 +1,20 @@
+{
+    "id": "2345906",
+    "canon": "Harry Potter",
+    "author_id": 237460,
+    "title": "Promesas calladas",
+    "lang": "Spanish",
+    "published": 1113180397,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2215,
+    "num_reviews": 8,
+    "num_favs": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "170001",
+    "canon": "Harry Potter",
+    "author_id": 24384,
+    "title": "Two in a Million",
+    "lang": "English",
+    "published": 978940800,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 933,
+    "num_reviews": 24,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "258623",
+    "canon": "Harry Potter",
+    "author_id": 22135,
+    "title": "Butterfly",
+    "lang": "English",
+    "published": 987577200,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 993970800,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 2574,
+    "num_reviews": 16,
+    "status": "Incomplete"
+}

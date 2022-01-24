@@ -1,0 +1,19 @@
+{
+    "id": "1482449",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "Potions Man",
+    "lang": "English",
+    "published": 1061210857,
+    "genres": [
+        "Romance",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 279,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

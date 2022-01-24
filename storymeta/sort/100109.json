@@ -1,0 +1,18 @@
+{
+    "id": "100109",
+    "canon": "Harry Potter",
+    "author_id": 23167,
+    "title": "The Raspberries: year 1, part 1",
+    "lang": "English",
+    "published": 972716400,
+    "genres": [
+        "Words: 440"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 440,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

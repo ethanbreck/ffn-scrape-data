@@ -1,0 +1,23 @@
+{
+    "id": "4327485",
+    "canon": "Harry Potter",
+    "author_id": 4095,
+    "title": "Renaissance",
+    "lang": "English",
+    "published": 1213639005,
+    "genres": [
+        "Mystery",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1340475963,
+    "rated": "Fiction  M",
+    "num_chapters": 17,
+    "num_words": 65709,
+    "num_reviews": 166,
+    "num_favs": 107,
+    "num_follows": 56,
+    "status": "Complete"
+}

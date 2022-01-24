@@ -1,0 +1,22 @@
+{
+    "id": "1118511",
+    "canon": "Harry Potter",
+    "author_id": 42108,
+    "title": "Butterbeer Ramblings",
+    "lang": "English",
+    "published": 1039690464,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 12269,
+    "num_reviews": 24,
+    "num_favs": 68,
+    "num_follows": 17,
+    "status": "Incomplete"
+}

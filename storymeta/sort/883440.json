@@ -1,0 +1,21 @@
+{
+    "id": "883440",
+    "canon": "Harry Potter",
+    "author_id": 140123,
+    "title": "Hungry",
+    "lang": "English",
+    "published": 1028142054,
+    "genres": [
+        "Romance",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 319,
+    "num_reviews": 20,
+    "num_favs": 8,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

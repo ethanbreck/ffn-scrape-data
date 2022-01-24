@@ -1,0 +1,23 @@
+{
+    "id": "10003896",
+    "canon": "Harry Potter",
+    "author_id": 79164,
+    "title": "Pack",
+    "lang": "English",
+    "published": 1389151267,
+    "genres": [
+        "Drama",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1399253637,
+    "rated": "Fiction  M",
+    "num_chapters": 23,
+    "num_words": 37643,
+    "num_reviews": 7,
+    "num_favs": 10,
+    "num_follows": 9,
+    "status": "Complete"
+}

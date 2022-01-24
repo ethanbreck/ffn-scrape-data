@@ -1,0 +1,20 @@
+{
+    "id": "1428751",
+    "canon": "Harry Potter",
+    "author_id": 123219,
+    "title": "Her Hero",
+    "lang": "English",
+    "published": 1058181931,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2141,
+    "num_reviews": 18,
+    "num_favs": 27,
+    "num_follows": 3,
+    "status": "Complete"
+}

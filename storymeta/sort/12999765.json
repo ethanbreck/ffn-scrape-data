@@ -1,0 +1,21 @@
+{
+    "id": "12999765",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "The Most Important Thing",
+    "lang": "English",
+    "published": 1531449748,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 306,
+    "num_reviews": 1,
+    "num_favs": 10,
+    "num_follows": 3,
+    "status": "Complete"
+}

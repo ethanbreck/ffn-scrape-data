@@ -1,0 +1,22 @@
+{
+    "id": "480425",
+    "canon": "Lord of the Rings",
+    "author_id": 134065,
+    "title": "The Ring Returns - Year 2002",
+    "lang": "English",
+    "published": 1007280000,
+    "genres": [
+        "Adventure",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 1084,
+    "num_reviews": 32,
+    "num_favs": 3,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

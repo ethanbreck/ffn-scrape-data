@@ -1,0 +1,21 @@
+{
+    "id": "924066",
+    "canon": "Harry Potter",
+    "author_id": 256066,
+    "title": "Harry Potter et l'Anneau Magique",
+    "lang": "French",
+    "published": 1029861004,
+    "genres": [
+        "Harry P."
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 33,
+    "num_words": 58173,
+    "num_reviews": 16,
+    "num_favs": 7,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

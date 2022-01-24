@@ -1,0 +1,18 @@
+{
+    "id": "104192",
+    "canon": "Harry Potter",
+    "author_id": 3663,
+    "title": "The Trek",
+    "lang": "English",
+    "published": 973152000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 3412,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

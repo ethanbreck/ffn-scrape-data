@@ -1,0 +1,19 @@
+{
+    "id": "6580693",
+    "canon": "Harry Potter",
+    "author_id": 39403,
+    "title": "Best Seller",
+    "lang": "English",
+    "published": 1293079611,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 486,
+    "num_reviews": 13,
+    "num_favs": 29,
+    "status": "Complete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "14666",
+    "canon": "Harry Potter",
+    "author_id": 7641,
+    "title": "My Friend Ron",
+    "lang": "English",
+    "published": 952848000,
+    "genres": [
+        "Words: 2,376"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 2376,
+    "num_reviews": 93,
+    "num_favs": 13,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "536200",
+    "canon": "Harry Potter",
+    "author_id": 138437,
+    "title": "Hero",
+    "lang": "English",
+    "published": 1010390400,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 3412,
+    "num_reviews": 17,
+    "num_favs": 6,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "871123",
+    "canon": "Harry Potter",
+    "author_id": 234565,
+    "title": "Harry Potter and the NeoMarauders",
+    "lang": "English",
+    "published": 1027504722,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 3911,
+    "num_reviews": 10,
+    "num_favs": 3,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

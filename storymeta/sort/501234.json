@@ -1,0 +1,19 @@
+{
+    "id": "501234",
+    "canon": "Harry Potter",
+    "author_id": 30532,
+    "title": "On a Hot Summer Night",
+    "lang": "English",
+    "published": 1008576000,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 654,
+    "num_reviews": 29,
+    "num_favs": 20,
+    "status": "Incomplete"
+}

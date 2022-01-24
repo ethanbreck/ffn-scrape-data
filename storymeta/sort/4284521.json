@@ -1,0 +1,23 @@
+{
+    "id": "4284521",
+    "canon": "Harry Potter",
+    "author_id": 255430,
+    "title": "Dear Diary",
+    "lang": "English",
+    "published": 1211995691,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1214896807,
+    "rated": "Fiction  K",
+    "num_chapters": 21,
+    "num_words": 2147,
+    "num_reviews": 137,
+    "num_favs": 470,
+    "num_follows": 116,
+    "status": "Complete"
+}

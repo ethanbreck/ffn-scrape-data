@@ -1,0 +1,20 @@
+{
+    "id": "1321874",
+    "canon": "Harry Potter",
+    "author_id": 57253,
+    "title": "Something",
+    "lang": "English",
+    "published": 1051375098,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1990,
+    "num_reviews": 6,
+    "num_favs": 12,
+    "num_follows": 2,
+    "status": "Complete"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "457489",
+    "canon": "Harry Potter",
+    "author_id": 41045,
+    "title": "The Grandfather Paradox",
+    "lang": "English",
+    "published": 1005897600,
+    "genres": [
+        "Mystery",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1007971200,
+    "rated": "Fiction  K+",
+    "num_chapters": 5,
+    "num_words": 10317,
+    "num_reviews": 26,
+    "num_favs": 15,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "314457",
+    "canon": "Harry Potter",
+    "author_id": 71441,
+    "title": "A brief history of Harry Potter",
+    "lang": "English",
+    "published": 992242800,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 172,
+    "num_reviews": 20,
+    "status": "Incomplete"
+}

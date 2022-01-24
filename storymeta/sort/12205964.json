@@ -1,0 +1,21 @@
+{
+    "id": "12205964",
+    "canon": "Harry Potter",
+    "author_id": 25783,
+    "title": "Nesting Behavior",
+    "lang": "English",
+    "published": 1477489359,
+    "genres": [
+        "Drama",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1626,
+    "num_reviews": 4,
+    "num_favs": 4,
+    "num_follows": 5,
+    "status": "Complete"
+}

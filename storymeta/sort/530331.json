@@ -1,0 +1,21 @@
+{
+    "id": "530331",
+    "canon": "Harry Potter",
+    "author_id": 132123,
+    "title": "Harry Funnies",
+    "lang": "English",
+    "published": 1010131200,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1010217600,
+    "rated": "Fiction  K",
+    "num_words": 333,
+    "num_reviews": 22,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

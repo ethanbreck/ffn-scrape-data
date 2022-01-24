@@ -1,0 +1,20 @@
+{
+    "id": "4976",
+    "canon": "Harry Potter",
+    "author_id": 6253,
+    "title": "Harry Pothead",
+    "lang": "English",
+    "published": 947232000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 162,
+    "num_reviews": 194,
+    "num_favs": 28,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

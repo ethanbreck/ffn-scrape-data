@@ -1,0 +1,21 @@
+{
+    "id": "601035",
+    "canon": "Harry Potter",
+    "author_id": 142839,
+    "title": "Harry Potter und das Geheimnis von Avalon",
+    "lang": "German",
+    "published": 1013603995,
+    "genres": [
+        "Adventure",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_chapters": 17,
+    "num_words": 33147,
+    "num_reviews": 3,
+    "num_favs": 4,
+    "status": "Incomplete"
+}

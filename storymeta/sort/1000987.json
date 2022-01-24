@@ -1,0 +1,21 @@
+{
+    "id": "1000987",
+    "canon": "Harry Potter",
+    "author_id": 73270,
+    "title": "The Frog Prince",
+    "lang": "English",
+    "published": 1033903301,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 912,
+    "num_reviews": 14,
+    "num_favs": 7,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

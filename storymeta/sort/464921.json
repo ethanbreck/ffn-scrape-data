@@ -1,0 +1,19 @@
+{
+    "id": "464921",
+    "canon": "Harry Potter",
+    "author_id": 123321,
+    "title": "A Mysterious Man, the one with the sign",
+    "lang": "English",
+    "published": 1006329600,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1708,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "8127268",
+    "canon": "Harry Potter",
+    "author_id": 245085,
+    "title": "George and Angelina",
+    "lang": "English",
+    "published": 1337357372,
+    "genres": [
+        "Drama",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 3227,
+    "num_reviews": 21,
+    "num_favs": 55,
+    "num_follows": 5,
+    "status": "Complete"
+}

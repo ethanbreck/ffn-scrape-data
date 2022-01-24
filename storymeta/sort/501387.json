@@ -1,0 +1,21 @@
+{
+    "id": "501387",
+    "canon": "Harry Potter",
+    "author_id": 137420,
+    "title": "Titanic",
+    "lang": "English",
+    "published": 1008576000,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2996,
+    "num_reviews": 25,
+    "num_favs": 11,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

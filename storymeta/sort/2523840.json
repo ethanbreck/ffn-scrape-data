@@ -1,0 +1,23 @@
+{
+    "id": "2523840",
+    "canon": "Harry Potter",
+    "author_id": 11783,
+    "title": "Everything",
+    "lang": "English",
+    "published": 1123486319,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1132962743,
+    "rated": "Fiction  M",
+    "num_chapters": 3,
+    "num_words": 4523,
+    "num_reviews": 18,
+    "num_favs": 10,
+    "num_follows": 15,
+    "status": "Incomplete"
+}

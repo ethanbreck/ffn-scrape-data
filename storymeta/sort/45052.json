@@ -1,0 +1,20 @@
+{
+    "id": "45052",
+    "canon": "Harry Potter",
+    "author_id": 8220,
+    "title": "HEY HARRY!",
+    "lang": "English",
+    "published": 963730800,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 490,
+    "num_reviews": 30,
+    "num_favs": 2,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

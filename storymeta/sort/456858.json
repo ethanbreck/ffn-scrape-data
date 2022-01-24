@@ -1,0 +1,18 @@
+{
+    "id": "456858",
+    "canon": "Harry Potter",
+    "author_id": 123098,
+    "title": "Tuesday",
+    "lang": "English",
+    "published": 1005811200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 590,
+    "num_reviews": 7,
+    "status": "Incomplete"
+}

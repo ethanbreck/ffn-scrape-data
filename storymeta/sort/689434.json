@@ -1,0 +1,23 @@
+{
+    "id": "689434",
+    "canon": "Harry Potter",
+    "author_id": 191475,
+    "title": "Harry Potter and the Harry Potter",
+    "lang": "English",
+    "published": 1017458680,
+    "genres": [
+        "Adventure",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1017549680,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 1277,
+    "num_reviews": 10,
+    "num_favs": 4,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

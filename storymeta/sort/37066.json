@@ -1,0 +1,18 @@
+{
+    "id": "37066",
+    "canon": "Harry Potter",
+    "author_id": 7658,
+    "title": "A Strange Creature",
+    "lang": "English",
+    "published": 961916400,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 666,
+    "num_reviews": 18,
+    "status": "Incomplete"
+}

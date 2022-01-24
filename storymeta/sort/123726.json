@@ -1,0 +1,18 @@
+{
+    "id": "123726",
+    "canon": "Harry Potter",
+    "author_id": 23440,
+    "title": "What I was trying to say",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Words: 1,763"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1763,
+    "num_reviews": 28,
+    "status": "Incomplete"
+}

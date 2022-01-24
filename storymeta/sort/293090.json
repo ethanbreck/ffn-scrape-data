@@ -1,0 +1,20 @@
+{
+    "id": "293090",
+    "canon": "Star Wars",
+    "author_id": 72245,
+    "title": "Dark Shadows",
+    "lang": "English",
+    "published": 990687600,
+    "genres": [
+        "Adventure",
+        "Humor"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 32,
+    "num_words": 35245,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

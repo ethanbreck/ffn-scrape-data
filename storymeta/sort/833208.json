@@ -1,0 +1,20 @@
+{
+    "id": "833208",
+    "canon": "Harry Potter",
+    "author_id": 210792,
+    "title": "El monstruo",
+    "lang": "Spanish",
+    "published": 1024911582,
+    "genres": [
+        "Mystery",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 573,
+    "num_reviews": 7,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "1002024",
+    "canon": "Harry Potter",
+    "author_id": 122020,
+    "title": "Dragon's Bane",
+    "lang": "English",
+    "published": 1033943870,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1044070284,
+    "rated": "Fiction  T",
+    "num_chapters": 8,
+    "num_words": 8760,
+    "num_reviews": 33,
+    "num_favs": 15,
+    "num_follows": 13,
+    "status": "Incomplete"
+}

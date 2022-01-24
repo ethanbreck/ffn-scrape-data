@@ -1,0 +1,21 @@
+{
+    "id": "2739038",
+    "canon": "Harry Potter",
+    "author_id": 253529,
+    "title": "Some Tale",
+    "lang": "English",
+    "published": 1136523993,
+    "genres": [
+        "Romance",
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2061,
+    "num_reviews": 8,
+    "num_favs": 9,
+    "num_follows": 6,
+    "status": "Complete"
+}

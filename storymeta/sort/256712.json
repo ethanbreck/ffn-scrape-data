@@ -1,0 +1,21 @@
+{
+    "id": "256712",
+    "canon": "Harry Potter",
+    "author_id": 52494,
+    "title": "The One",
+    "lang": "English",
+    "published": 987404400,
+    "genres": [
+        "Poetry",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 249,
+    "num_reviews": 20,
+    "num_favs": 5,
+    "num_follows": 1,
+    "status": "Complete"
+}

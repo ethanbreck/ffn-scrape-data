@@ -1,0 +1,23 @@
+{
+    "id": "333336",
+    "canon": "Harry Potter",
+    "author_id": 84372,
+    "title": "Lily",
+    "lang": "English",
+    "published": 993625200,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1003474800,
+    "rated": "Fiction  T",
+    "num_chapters": 16,
+    "num_words": 40594,
+    "num_reviews": 191,
+    "num_favs": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

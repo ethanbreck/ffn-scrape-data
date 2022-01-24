@@ -1,0 +1,18 @@
+{
+    "id": "220319",
+    "canon": "Harry Potter",
+    "author_id": 45721,
+    "title": "The Wrath of Hogwarts",
+    "lang": "English",
+    "published": 983520000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1912,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

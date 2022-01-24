@@ -1,0 +1,23 @@
+{
+    "id": "474533",
+    "canon": "Harry Potter",
+    "author_id": 23456,
+    "title": "Broken Wings",
+    "lang": "English",
+    "published": 1006848000,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1017500512,
+    "rated": "Fiction  T",
+    "num_chapters": 7,
+    "num_words": 23419,
+    "num_reviews": 90,
+    "num_favs": 9,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

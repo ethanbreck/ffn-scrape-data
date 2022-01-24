@@ -1,0 +1,23 @@
+{
+    "id": "511879",
+    "canon": "Harry Potter",
+    "author_id": 100447,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "lang": "English",
+    "published": 1009180800,
+    "genres": [
+        "Adventure",
+        "Angst"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1045865323,
+    "rated": "Fiction  T",
+    "num_chapters": 10,
+    "num_words": 53190,
+    "num_reviews": 143,
+    "num_favs": 297,
+    "num_follows": 116,
+    "status": "Incomplete"
+}

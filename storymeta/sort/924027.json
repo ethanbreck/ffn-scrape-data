@@ -1,0 +1,23 @@
+{
+    "id": "924027",
+    "canon": "Harry Potter",
+    "author_id": 256025,
+    "title": "Una Historia",
+    "lang": "Spanish",
+    "published": 1029859152,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1081273610,
+    "rated": "Fiction  K",
+    "num_chapters": 30,
+    "num_words": 74223,
+    "num_reviews": 40,
+    "num_favs": 7,
+    "num_follows": 1,
+    "status": "Complete"
+}

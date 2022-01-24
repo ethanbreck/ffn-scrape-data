@@ -1,0 +1,21 @@
+{
+    "id": "13243392",
+    "canon": "Harry Potter",
+    "author_id": 78047,
+    "title": "Omnia",
+    "lang": "English",
+    "published": 1553460323,
+    "genres": [
+        "Adventure",
+        "Friendship"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 2287,
+    "num_reviews": 2,
+    "num_favs": 4,
+    "num_follows": 5,
+    "status": "Incomplete"
+}

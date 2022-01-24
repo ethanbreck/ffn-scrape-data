@@ -1,0 +1,23 @@
+{
+    "id": "606221",
+    "canon": "Harry Potter",
+    "author_id": 53635,
+    "title": "The Diary",
+    "lang": "English",
+    "published": 1013839343,
+    "genres": [
+        "Romance",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1083139149,
+    "rated": "Fiction  K+",
+    "num_chapters": 43,
+    "num_words": 153885,
+    "num_reviews": 124,
+    "num_favs": 34,
+    "num_follows": 5,
+    "status": "Complete"
+}

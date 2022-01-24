@@ -1,0 +1,21 @@
+{
+    "id": "4861979",
+    "canon": "Harry Potter",
+    "author_id": 214832,
+    "title": "Un nouveau d\u00e9part",
+    "lang": "French",
+    "published": 1234628444,
+    "genres": [
+        "Romance",
+        "Friendship"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 18057,
+    "num_reviews": 20,
+    "num_favs": 74,
+    "num_follows": 18,
+    "status": "Complete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1160133",
+    "canon": "Lord of the Rings",
+    "author_id": 123228,
+    "title": "Sauron's Lament",
+    "lang": "English",
+    "published": 1041693640,
+    "genres": [
+        "Fantasy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 555,
+    "num_reviews": 3,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

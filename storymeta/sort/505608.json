@@ -1,0 +1,23 @@
+{
+    "id": "505608",
+    "canon": "Harry Potter",
+    "author_id": 123734,
+    "title": "Hedwig enamorada",
+    "lang": "Spanish",
+    "published": 1008835200,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1009180800,
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 420,
+    "num_reviews": 24,
+    "num_favs": 7,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

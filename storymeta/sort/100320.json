@@ -1,0 +1,19 @@
+{
+    "id": "100320",
+    "canon": "Harry Potter",
+    "author_id": 23548,
+    "title": "Requited",
+    "lang": "English",
+    "published": 972716400,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 756,
+    "num_reviews": 59,
+    "num_favs": 7,
+    "status": "Incomplete"
+}

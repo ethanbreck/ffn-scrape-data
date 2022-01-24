@@ -1,0 +1,20 @@
+{
+    "id": "4342",
+    "canon": "Harry Potter",
+    "author_id": 6253,
+    "title": "Dirty Harry",
+    "lang": "English",
+    "published": 947491200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 157,
+    "num_reviews": 99,
+    "num_favs": 21,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

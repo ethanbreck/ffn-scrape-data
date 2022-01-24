@@ -1,0 +1,21 @@
+{
+    "id": "1489009",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "This isn't love",
+    "lang": "English",
+    "published": 1061589088,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 3536,
+    "num_reviews": 13,
+    "num_favs": 11,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

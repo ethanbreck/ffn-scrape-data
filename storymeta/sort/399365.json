@@ -1,0 +1,18 @@
+{
+    "id": "399365",
+    "canon": "Harry Potter",
+    "author_id": 10135,
+    "title": "Fluffy Bunny",
+    "lang": "English",
+    "published": 1000105200,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1960,
+    "num_reviews": 10,
+    "status": "Incomplete"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "1337063",
+    "canon": "Harry Potter",
+    "author_id": 75067,
+    "title": "My Atonement",
+    "lang": "English",
+    "published": 1052428468,
+    "genres": [
+        "Drama",
+        "Tragedy"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1053729733,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 3882,
+    "num_reviews": 8,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

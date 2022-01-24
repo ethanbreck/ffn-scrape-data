@@ -1,0 +1,18 @@
+{
+    "id": "123093",
+    "canon": "Harry Potter",
+    "author_id": 15334,
+    "title": "Dear Diary",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Words: 4,020"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 4020,
+    "num_reviews": 20,
+    "status": "Incomplete"
+}

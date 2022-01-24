@@ -1,0 +1,20 @@
+{
+    "id": "12765657",
+    "canon": "Harry Potter",
+    "author_id": 42901,
+    "title": "Say Cheese",
+    "lang": "English",
+    "published": 1513742636,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 101,
+    "num_reviews": 2,
+    "num_favs": 1,
+    "num_follows": 1,
+    "status": "Complete"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "1234276",
+    "canon": "Harry Potter",
+    "author_id": 150331,
+    "title": "Things We Said Today",
+    "lang": "English",
+    "published": 1045110588,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1559,
+    "num_reviews": 27,
+    "num_favs": 10,
+    "status": "Complete"
+}

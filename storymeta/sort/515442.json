@@ -1,0 +1,19 @@
+{
+    "id": "515442",
+    "canon": "Harry Potter",
+    "author_id": 57585,
+    "title": "A quickie",
+    "lang": "English",
+    "published": 1009440000,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 256,
+    "num_reviews": 11,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

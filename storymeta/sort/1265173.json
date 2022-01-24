@@ -1,0 +1,19 @@
+{
+    "id": "1265173",
+    "canon": "Harry Potter",
+    "author_id": 257181,
+    "title": "Harry's Article",
+    "lang": "English",
+    "published": 1047337196,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 743,
+    "num_reviews": 6,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

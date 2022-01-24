@@ -1,0 +1,20 @@
+{
+    "id": "70653",
+    "canon": "Harry Potter",
+    "author_id": 14802,
+    "title": "The Book",
+    "lang": "English",
+    "published": 968396400,
+    "genres": [
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 986886000,
+    "rated": "Fiction  K",
+    "num_words": 344,
+    "num_reviews": 23,
+    "num_follows": 1,
+    "status": "Complete"
+}

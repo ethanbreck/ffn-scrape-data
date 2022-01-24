@@ -1,0 +1,23 @@
+{
+    "id": "7279101",
+    "canon": "Harry Potter",
+    "author_id": 245085,
+    "title": "For 10 Galleons",
+    "lang": "English",
+    "published": 1313162332,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1340378541,
+    "rated": "Fiction  T",
+    "num_chapters": 10,
+    "num_words": 31566,
+    "num_reviews": 250,
+    "num_favs": 300,
+    "num_follows": 129,
+    "status": "Complete"
+}

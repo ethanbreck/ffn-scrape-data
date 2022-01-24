@@ -1,0 +1,21 @@
+{
+    "id": "829258",
+    "canon": "Harry Potter",
+    "author_id": 149764,
+    "title": "Hogwarts",
+    "lang": "English",
+    "published": 1023894506,
+    "genres": [
+        "Drama",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1023982689,
+    "rated": "Fiction  K",
+    "num_chapters": 4,
+    "num_words": 2384,
+    "num_reviews": 2,
+    "status": "Incomplete"
+}

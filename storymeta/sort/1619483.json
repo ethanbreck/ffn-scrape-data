@@ -1,0 +1,19 @@
+{
+    "id": "1619483",
+    "canon": "Harry Potter",
+    "author_id": 54837,
+    "title": "Testing",
+    "lang": "English",
+    "published": 1070053610,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 499,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "6516",
+    "canon": "Harry Potter",
+    "author_id": 3660,
+    "title": "Cold Fire",
+    "lang": "English",
+    "published": 942566400,
+    "genres": [
+        "Poetry",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 103,
+    "num_reviews": 42,
+    "num_favs": 5,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

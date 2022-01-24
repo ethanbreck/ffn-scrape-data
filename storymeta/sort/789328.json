@@ -1,0 +1,20 @@
+{
+    "id": "789328",
+    "canon": "Harry Potter",
+    "author_id": 149367,
+    "title": "A Simple Promise",
+    "lang": "English",
+    "published": 1021984428,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 1175,
+    "num_reviews": 3,
+    "num_favs": 2,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "4070",
+    "canon": "Star Wars",
+    "author_id": 5939,
+    "title": "Catalyst",
+    "lang": "English",
+    "published": 944640000,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 9366,
+    "num_reviews": 30,
+    "num_favs": 64,
+    "num_follows": 11,
+    "status": "Complete"
+}

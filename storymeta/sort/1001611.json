@@ -1,0 +1,22 @@
+{
+    "id": "1001611",
+    "canon": "Harry Potter",
+    "author_id": 236059,
+    "title": "Hogwarts, a Mystery",
+    "lang": "English",
+    "published": 1033931631,
+    "genres": [
+        "Romance",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1050777183,
+    "rated": "Fiction  T",
+    "num_chapters": 6,
+    "num_words": 5998,
+    "num_reviews": 15,
+    "num_favs": 3,
+    "status": "Incomplete"
+}

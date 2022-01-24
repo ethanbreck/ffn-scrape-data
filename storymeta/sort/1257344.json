@@ -1,0 +1,21 @@
+{
+    "id": "1257344",
+    "canon": "Harry Potter",
+    "author_id": 200257,
+    "title": "The Potion",
+    "lang": "English",
+    "published": 1046731429,
+    "genres": [
+        "Drama",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 610,
+    "num_reviews": 9,
+    "num_favs": 6,
+    "num_follows": 4,
+    "status": "Incomplete"
+}

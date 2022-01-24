@@ -1,0 +1,19 @@
+{
+    "id": "390559",
+    "canon": "Harry Potter",
+    "author_id": 100253,
+    "title": "My First Love",
+    "lang": "English",
+    "published": 999327600,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1210,
+    "num_reviews": 6,
+    "status": "Incomplete"
+}

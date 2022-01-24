@@ -1,0 +1,21 @@
+{
+    "id": "987222",
+    "canon": "Lord of the Rings",
+    "author_id": 259018,
+    "title": "Adventures in MiddleEarth",
+    "lang": "English",
+    "published": 1033155925,
+    "genres": [
+        "Humor",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1034797832,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 4675,
+    "num_reviews": 15,
+    "status": "Incomplete"
+}

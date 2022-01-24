@@ -1,0 +1,23 @@
+{
+    "id": "1101240",
+    "canon": "Harry Potter",
+    "author_id": 189907,
+    "title": "Harry Potter and the Test",
+    "lang": "English",
+    "published": 1038950762,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1056700962,
+    "rated": "Fiction  T",
+    "num_chapters": 12,
+    "num_words": 39197,
+    "num_reviews": 17,
+    "num_favs": 10,
+    "num_follows": 3,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "5221019",
+    "canon": "Harry Potter",
+    "author_id": 123733,
+    "title": "Furious",
+    "lang": "English",
+    "published": 1247711354,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 875,
+    "num_reviews": 12,
+    "num_favs": 10,
+    "num_follows": 1,
+    "status": "Complete"
+}

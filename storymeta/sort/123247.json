@@ -1,0 +1,18 @@
+{
+    "id": "123247",
+    "canon": "Harry Potter",
+    "author_id": 15143,
+    "title": "Dear Lie",
+    "lang": "English",
+    "published": 975225600,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1121,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

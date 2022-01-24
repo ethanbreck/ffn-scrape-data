@@ -1,0 +1,20 @@
+{
+    "id": "4860599",
+    "canon": "Harry Potter",
+    "author_id": 241500,
+    "title": "A Smooth Proposal",
+    "lang": "English",
+    "published": 1234578791,
+    "genres": [
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1210,
+    "num_reviews": 5,
+    "num_favs": 28,
+    "num_follows": 8,
+    "status": "Complete"
+}

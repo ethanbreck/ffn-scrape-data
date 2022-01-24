@@ -1,0 +1,20 @@
+{
+    "id": "1324946",
+    "canon": "Harry Potter",
+    "author_id": 256012,
+    "title": "La vie de Harry Potter",
+    "lang": "French",
+    "published": 1051562340,
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1051779149,
+    "rated": "Fiction  K",
+    "num_words": 2979,
+    "num_reviews": 11,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "4868240",
+    "canon": "Harry Potter",
+    "author_id": 107924,
+    "title": "Thanks to the Rain",
+    "lang": "English",
+    "published": 1234813464,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1812,
+    "num_reviews": 15,
+    "num_favs": 14,
+    "num_follows": 1,
+    "status": "Complete"
+}

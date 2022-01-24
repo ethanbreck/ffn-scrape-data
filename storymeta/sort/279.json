@@ -1,0 +1,20 @@
+{
+    "id": "279",
+    "canon": "Star Wars",
+    "author_id": 3289,
+    "title": "This should be fun",
+    "lang": "English",
+    "published": 932799600,
+    "genres": [
+        "Words: 2,391"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 2391,
+    "num_reviews": 7,
+    "num_favs": 10,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

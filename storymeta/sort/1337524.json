@@ -1,0 +1,21 @@
+{
+    "id": "1337524",
+    "canon": "Harry Potter",
+    "author_id": 160759,
+    "title": "Harry's Delema",
+    "lang": "English",
+    "published": 1052448581,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1319,
+    "num_reviews": 7,
+    "num_favs": 6,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

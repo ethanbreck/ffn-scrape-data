@@ -1,0 +1,21 @@
+{
+    "id": "535377",
+    "canon": "Harry Potter",
+    "author_id": 123734,
+    "title": "La profec\u00eda de Notre Damus",
+    "lang": "Spanish",
+    "published": 1010304000,
+    "genres": [
+        "Humor",
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1015210088,
+    "rated": "Fiction  K",
+    "num_chapters": 2,
+    "num_words": 157,
+    "num_reviews": 14,
+    "status": "Incomplete"
+}

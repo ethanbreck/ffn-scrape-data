@@ -1,0 +1,19 @@
+{
+    "id": "100125",
+    "canon": "Harry Potter",
+    "author_id": 23543,
+    "title": "An Equilateral Triangle",
+    "lang": "English",
+    "published": 972716400,
+    "genres": [
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 718,
+    "num_reviews": 16,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

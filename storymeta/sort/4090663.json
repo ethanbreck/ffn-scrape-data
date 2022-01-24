@@ -1,0 +1,23 @@
+{
+    "id": "4090663",
+    "canon": "Harry Potter",
+    "author_id": 222523,
+    "title": "Sweet Sixteen",
+    "lang": "English",
+    "published": 1203769324,
+    "genres": [
+        "Humor",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1212893985,
+    "rated": "Fiction  T",
+    "num_chapters": 6,
+    "num_words": 25706,
+    "num_reviews": 12,
+    "num_favs": 20,
+    "num_follows": 10,
+    "status": "Complete"
+}

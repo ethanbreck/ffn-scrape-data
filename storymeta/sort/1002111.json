@@ -1,0 +1,21 @@
+{
+    "id": "1002111",
+    "canon": "Harry Potter",
+    "author_id": 200766,
+    "title": "Mourning Tears",
+    "lang": "English",
+    "published": 1033946386,
+    "genres": [
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_chapters": 3,
+    "num_words": 7088,
+    "num_reviews": 4,
+    "num_favs": 2,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "7629",
+    "canon": "Harry Potter",
+    "author_id": 3660,
+    "title": "Haunted",
+    "lang": "English",
+    "published": 941702400,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 190,
+    "num_reviews": 47,
+    "num_favs": 9,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

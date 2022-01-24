@@ -1,0 +1,21 @@
+{
+    "id": "574129",
+    "canon": "Harry Potter",
+    "author_id": 111401,
+    "title": "Harry Potter and the...",
+    "lang": "English",
+    "published": 1012291200,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 712,
+    "num_reviews": 17,
+    "num_favs": 3,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "444491",
+    "canon": "Harry Potter",
+    "author_id": 92355,
+    "title": "Once upon a time in Hogwarts",
+    "lang": "English",
+    "published": 1004947200,
+    "genres": [
+        "Romance",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1007625600,
+    "rated": "Fiction  K+",
+    "num_chapters": 2,
+    "num_words": 6678,
+    "num_reviews": 28,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

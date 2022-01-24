@@ -1,0 +1,21 @@
+{
+    "id": "233981",
+    "canon": "Harry Potter",
+    "author_id": 33070,
+    "title": "Book of Shadows",
+    "lang": "English",
+    "published": 985075200,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 985248000,
+    "rated": "Fiction  K",
+    "num_chapters": 3,
+    "num_words": 283,
+    "num_reviews": 1,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

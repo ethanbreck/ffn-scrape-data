@@ -1,0 +1,23 @@
+{
+    "id": "2046705",
+    "canon": "Harry Potter",
+    "author_id": 111182,
+    "title": "Macbeth",
+    "lang": "English",
+    "published": 1094499808,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1151186427,
+    "rated": "Fiction  T",
+    "num_chapters": 27,
+    "num_words": 120368,
+    "num_reviews": 2474,
+    "num_favs": 1911,
+    "num_follows": 523,
+    "status": "Complete"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "481034",
+    "canon": "Harry Potter",
+    "author_id": 99228,
+    "title": "An Interesting Fifth Year",
+    "lang": "English",
+    "published": 1007280000,
+    "genres": [
+        "Romance",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1012700358,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 6917,
+    "num_reviews": 3,
+    "status": "Incomplete"
+}

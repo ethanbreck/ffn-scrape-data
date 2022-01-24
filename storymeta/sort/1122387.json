@@ -1,0 +1,21 @@
+{
+    "id": "1122387",
+    "canon": "Star Wars",
+    "author_id": 160266,
+    "title": "TEST WARS",
+    "lang": "English",
+    "published": 1039889219,
+    "genres": [
+        "Humor",
+        "Parody"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "updated": 1040578717,
+    "rated": "Fiction  T",
+    "num_chapters": 3,
+    "num_words": 1027,
+    "num_reviews": 1,
+    "status": "Incomplete"
+}

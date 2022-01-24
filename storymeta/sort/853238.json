@@ -1,0 +1,23 @@
+{
+    "id": "853238",
+    "canon": "Harry Potter",
+    "author_id": 234583,
+    "title": "Harry Potter y la Orden del Fenix",
+    "lang": "Spanish",
+    "published": 1026829497,
+    "genres": [
+        "Adventure",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1049650770,
+    "rated": "Fiction  K",
+    "num_chapters": 10,
+    "num_words": 35246,
+    "num_reviews": 28,
+    "num_favs": 5,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "99220",
+    "canon": "Lord of the Rings",
+    "author_id": 14686,
+    "title": "Galadriel",
+    "lang": "English",
+    "published": 972543600,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 65,
+    "num_reviews": 20,
+    "num_favs": 2,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

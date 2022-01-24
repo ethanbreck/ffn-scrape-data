@@ -1,0 +1,21 @@
+{
+    "id": "746237",
+    "canon": "Harry Potter",
+    "author_id": 123898,
+    "title": "Amazons Past",
+    "lang": "English",
+    "published": 1019962525,
+    "genres": [
+        "Fantasy",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1020650387,
+    "rated": "Fiction  M",
+    "num_chapters": 6,
+    "num_words": 7192,
+    "num_reviews": 4,
+    "status": "Incomplete"
+}

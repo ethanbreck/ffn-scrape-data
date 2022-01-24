@@ -1,0 +1,23 @@
+{
+    "id": "13141541",
+    "canon": "Harry Potter",
+    "author_id": 256843,
+    "title": "A Game of Chess",
+    "lang": "English",
+    "published": 1544251269,
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1560633708,
+    "rated": "Fiction  T",
+    "num_chapters": 26,
+    "num_words": 140944,
+    "num_reviews": 158,
+    "num_favs": 132,
+    "num_follows": 127,
+    "status": "Complete"
+}

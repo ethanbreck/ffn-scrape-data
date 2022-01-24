@@ -1,0 +1,21 @@
+{
+    "id": "831265",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "Written",
+    "lang": "English",
+    "published": 1023963551,
+    "genres": [
+        "Angst",
+        "Horror"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 781,
+    "num_reviews": 24,
+    "num_favs": 49,
+    "num_follows": 14,
+    "status": "Incomplete"
+}

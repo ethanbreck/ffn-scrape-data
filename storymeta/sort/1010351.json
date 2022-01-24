@@ -1,0 +1,20 @@
+{
+    "id": "1010351",
+    "canon": "Harry Potter",
+    "author_id": 123995,
+    "title": "Man For Every Month",
+    "lang": "English",
+    "published": 1034509285,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1159,
+    "num_reviews": 41,
+    "num_favs": 12,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

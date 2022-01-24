@@ -1,0 +1,22 @@
+{
+    "id": "636407",
+    "canon": "Harry Potter",
+    "author_id": 123653,
+    "title": "Underpants",
+    "lang": "English",
+    "published": 1015203676,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1020019693,
+    "rated": "Fiction  K+",
+    "num_chapters": 6,
+    "num_words": 1923,
+    "num_reviews": 103,
+    "num_favs": 8,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

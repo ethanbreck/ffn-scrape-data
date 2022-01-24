@@ -1,0 +1,23 @@
+{
+    "id": "1573928",
+    "canon": "Harry Potter",
+    "author_id": 101640,
+    "title": "Hello Mrs Potter!",
+    "lang": "English",
+    "published": 1067152423,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1080863984,
+    "rated": "Fiction  T",
+    "num_chapters": 2,
+    "num_words": 8174,
+    "num_reviews": 16,
+    "num_favs": 4,
+    "num_follows": 2,
+    "status": "Incomplete"
+}

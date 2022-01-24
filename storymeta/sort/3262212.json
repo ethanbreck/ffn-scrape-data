@@ -1,0 +1,20 @@
+{
+    "id": "3262212",
+    "canon": "Harry Potter",
+    "author_id": 200322,
+    "title": "The Forest",
+    "lang": "English",
+    "published": 1164748769,
+    "genres": [
+        "Horror",
+        "Adventure"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1212,
+    "num_reviews": 3,
+    "num_favs": 3,
+    "status": "Complete"
+}

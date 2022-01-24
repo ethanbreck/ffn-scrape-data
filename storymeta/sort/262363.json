@@ -1,0 +1,19 @@
+{
+    "id": "262363",
+    "canon": "Harry Potter",
+    "author_id": 9099,
+    "title": "Magic",
+    "lang": "English",
+    "published": 987922800,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 130,
+    "num_reviews": 5,
+    "num_favs": 1,
+    "status": "Incomplete"
+}

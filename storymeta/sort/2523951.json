@@ -1,0 +1,20 @@
+{
+    "id": "2523951",
+    "canon": "Harry Potter",
+    "author_id": 61656,
+    "title": "Specimen 4",
+    "lang": "English",
+    "published": 1123498179,
+    "genres": [
+        "Humor",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 4391,
+    "num_reviews": 5,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

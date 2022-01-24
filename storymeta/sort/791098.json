@@ -1,0 +1,21 @@
+{
+    "id": "791098",
+    "canon": "Harry Potter",
+    "author_id": 123147,
+    "title": "January",
+    "lang": "English",
+    "published": 1022060813,
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  M",
+    "num_words": 558,
+    "num_reviews": 25,
+    "num_favs": 8,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

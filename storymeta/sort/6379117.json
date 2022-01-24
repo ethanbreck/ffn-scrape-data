@@ -1,0 +1,20 @@
+{
+    "id": "6379117",
+    "canon": "Sherlock Holmes",
+    "author_id": 230467,
+    "title": "It's in a box",
+    "lang": "English",
+    "published": 1286417576,
+    "genres": [
+        "Romance",
+        "Humor"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 344,
+    "num_reviews": 14,
+    "num_favs": 7,
+    "status": "Complete"
+}

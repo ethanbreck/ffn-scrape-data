@@ -1,0 +1,23 @@
+{
+    "id": "524229",
+    "canon": "Harry Potter",
+    "author_id": 23842,
+    "title": "The Book Nook",
+    "lang": "English",
+    "published": 1009785600,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1038391540,
+    "rated": "Fiction  K+",
+    "num_chapters": 4,
+    "num_words": 19249,
+    "num_reviews": 247,
+    "num_favs": 132,
+    "num_follows": 94,
+    "status": "Incomplete"
+}

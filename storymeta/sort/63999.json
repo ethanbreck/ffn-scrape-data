@@ -1,0 +1,20 @@
+{
+    "id": "63999",
+    "canon": "Harry Potter",
+    "author_id": 17157,
+    "title": "Harry",
+    "lang": "English",
+    "published": 967186800,
+    "genres": [
+        "Poetry"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  K",
+    "num_words": 190,
+    "num_reviews": 54,
+    "num_favs": 5,
+    "num_follows": 1,
+    "status": "Incomplete"
+}

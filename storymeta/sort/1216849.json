@@ -1,0 +1,20 @@
+{
+    "id": "1216849",
+    "canon": "Harry Potter",
+    "author_id": 140866,
+    "title": "The Rose",
+    "lang": "English",
+    "published": 1044245542,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "rated": "Fiction  T",
+    "num_words": 1234,
+    "num_reviews": 6,
+    "num_favs": 2,
+    "status": "Incomplete"
+}

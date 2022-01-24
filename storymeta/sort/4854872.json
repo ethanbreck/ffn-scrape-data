@@ -1,0 +1,23 @@
+{
+    "id": "4854872",
+    "canon": "Harry Potter",
+    "author_id": 153576,
+    "title": "Tales of Hogwarts: Snakes and Lions",
+    "lang": "English",
+    "published": 1234336617,
+    "genres": [
+        "Adventure",
+        "Mystery"
+    ],
+    "canon_type": [
+        "Books"
+    ],
+    "updated": 1235005455,
+    "rated": "Fiction  T",
+    "num_chapters": 5,
+    "num_words": 9790,
+    "num_reviews": 3,
+    "num_favs": 1,
+    "num_follows": 3,
+    "status": "Incomplete"
+}

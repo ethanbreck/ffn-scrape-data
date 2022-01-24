@@ -1,0 +1,20 @@
+{
+    "id": "6988",
+    "canon": "Star Wars",
+    "author_id": 5688,
+    "title": "The Princess Leia",
+    "lang": "English",
+    "published": 940834800,
+    "genres": [
+        "Humor"
+    ],
+    "canon_type": [
+        "Movies"
+    ],
+    "rated": "Fiction  K+",
+    "num_words": 1258,
+    "num_reviews": 16,
+    "num_favs": 4,
+    "num_follows": 1,
+    "status": "Incomplete"
+}
