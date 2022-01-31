@@ -1,8 +1,8 @@
 # README for Data folder
 
-## Favorites folder
+## Users folder
 
-For the favorites folder, it contains the User ID, and the story ids for the stories they have hit favorite on. There is no story metadata in those files, just the following information in the following format:
+For the user folder, it contains the User ID, and the story ids for the stories they have hit favorite on. There is no story metadata in those files, just the following information in the following format:
 
 [
 'User_id' = 1342,
