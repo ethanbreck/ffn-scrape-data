@@ -1,2 +1,3 @@
 # ffn-scrape-data
- Data scraped from AO3 and FFN
+ Data scraped from fanfiction.net
+ 
